@@ -85,6 +85,19 @@ datos= generar_categorias()
 # Paso 7: Organizar los registros en una tabla de pandas.
 tabla = pd.DataFrame(datos)
 
-# Paso 8: Mostrar el total de registros y la tabla completa sin índice.
+# Paso 8: Preparar una copia solo para que la tabla sea más fácil de leer.
+tabla_vista = tabla.fillna("Sin dato").copy()
+tabla_vista["id"] = tabla_vista["id"].str[:8]
+
+# Paso 9: Mostrar los registros en bloques pequeños.
 print("Todos los datos son", len(datos))
-print(tabla.to_string(index=False))
+
+for inicio in range(0, len(tabla_vista), 20):
+    fin = min(inicio + 20, len(tabla_vista))
+    print(f"\nRegistros {inicio + 1} a {fin}:")
+    print(
+        tabla_vista.iloc[inicio:fin].to_string(
+            index=False,
+            max_colwidth=35
+        )
+    )
