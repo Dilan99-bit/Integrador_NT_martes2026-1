@@ -1,0 +1,12 @@
+# Ambiente virtual: jamás se sube
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Datos generados (opcional, según pida el profe)
+data/crudo/
+data/limpio/
