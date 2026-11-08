@@ -2,6 +2,9 @@
 
 Genera datos realistas y los ENSUCIA a propósito, para que la etapa 3
 (limpieza con pandas) tenga trabajo de verdad.
+
+Ubicación: src/notebook/simulacion/simular_empresas.py
+Uso:       python src/notebook/simulacion/simular_empresas.py
 """
 
 import random

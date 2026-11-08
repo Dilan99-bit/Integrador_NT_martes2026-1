@@ -1,16 +1,20 @@
-"""Etapa 2 - Exportación de empresas_sucio a CSV, XLSX y JSON (HU X01)."""
+"""Etapa 2 - Exportación de empresas_sucio a CSV, XLSX y JSON (HU X01).
+
+Ubicación: src/notebook/exportacion/exportar_empresas.py
+Uso:       python src/notebook/exportacion/exportar_empresas.py
+"""
 
 import os
 import sys
 from importlib import import_module
 from pathlib import Path
 
-# src/ está en la carpeta del script; así 'simular_empresas' se importa sin importar desde dónde se ejecute
-sys.path.insert(0, str(Path(__file__).resolve().parent))
+# 'simular_empresas' está en la carpeta hermana src/notebook/simulacion; así se importa sin importar desde dónde se ejecute
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "simulacion"))
 
 # --- Configuración ---
 NOMBRE_ARCHIVO = "empresas_sucio"
-CARPETA_PROYECTO = Path(__file__).resolve().parents[1]   # src/ -> raíz del proyecto
+CARPETA_PROYECTO = Path(__file__).resolve().parents[3]   # exportacion -> notebook -> src -> raíz del proyecto
 CARPETA_CRUDO = CARPETA_PROYECTO / "data" / "crudo"
 
 
