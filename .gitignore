@@ -7,6 +7,3 @@ env/
 __pycache__/
 *.pyc
 
-# Datos generados (opcional, según pida el profe)
-data/crudo/
-data/limpio/
