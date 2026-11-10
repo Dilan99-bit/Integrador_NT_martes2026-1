@@ -7,7 +7,7 @@ Estructura esperada del proyecto:
     ├── data/
     │   ├── crudo/                  (se crea sola)
     │   ├── limpio/                 (se crea sola)
-    │   │   └── consultas/
+    │   │   └── consulta/
     │   │       ├── consulta_1/      (se crea sola)
     │   │       ├── consulta_2/
     │   │       ├── consulta_3/
@@ -50,7 +50,7 @@ COLUMNAS = ["id", "fecha_registro", "observacion", "estado", "id_usuario", "id_r
 ESTADOS_VALIDOS = ["en proceso", "finalizado", "inscrito"]
 CARPETA_DATOS = RAIZ_PROYECTO / "data"
 CARPETA_LIMPIO = CARPETA_DATOS / "limpio"
-CARPETA_CONSULTAS = CARPETA_LIMPIO / "consultas"
+CARPETA_CONSULTAS = CARPETA_LIMPIO / "consulta"
 CARPETA_REPORTES = CARPETA_DATOS / "reportes"
 resultados = []
 
@@ -189,7 +189,7 @@ revisar("Son 5 consultas con su CSV cada una", len(rutas_consultas) == 5)
 for n, ruta in enumerate(rutas_consultas, start=1):
     revisar(f"Existe {ruta.name}", ruta.exists() and ruta.stat().st_size > 0)
 revisar(
-    "Están en data/limpio/consultas/consulta_N",
+    "Están en data/limpio/consulta/consulta_N",
     all(
         ruta.parent.name == f"consulta_{n}" and ruta.parent.parent == CARPETA_CONSULTAS
         for n, ruta in enumerate(rutas_consultas, start=1)

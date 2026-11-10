@@ -1,0 +1,34 @@
+[
+  {
+    "sector":"Salud",
+    "cantidad":51
+  },
+  {
+    "sector":"Tecnología",
+    "cantidad":44
+  },
+  {
+    "sector":"Agroindustria",
+    "cantidad":38
+  },
+  {
+    "sector":"Manufactura",
+    "cantidad":38
+  },
+  {
+    "sector":"Educación",
+    "cantidad":38
+  },
+  {
+    "sector":"Servicios",
+    "cantidad":36
+  },
+  {
+    "sector":"Construcción",
+    "cantidad":28
+  },
+  {
+    "sector":"Comercio",
+    "cantidad":27
+  }
+]
