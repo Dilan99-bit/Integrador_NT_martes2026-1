@@ -1,11 +1,11 @@
 import os
 from pathlib import Path
 
-from ..simulaciones.simular_registro import generar_registros
+from ..simulacion.simular_registro import generar_registros
 
 # Configuración
 NOMBRE_ENTIDAD = "registros"
-CARPETA_PROYECTO = Path(__file__).resolve().parents[1]
+CARPETA_PROYECTO = Path(__file__).resolve().parents[3]
 CARPETA_CRUDO = CARPETA_PROYECTO / "data" / "crudo"
 
 

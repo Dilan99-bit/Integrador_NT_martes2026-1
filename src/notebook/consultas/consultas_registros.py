@@ -72,7 +72,9 @@ def ejecutar_consultas(df, carpeta_salida):
     resultados, rutas = [], []
     for n, consulta in enumerate(CONSULTAS, start=1):
         resultado = consulta(df)
-        ruta = carpeta_salida / f"registros_consulta_{n}.csv"
+        carpeta_consulta = carpeta_salida / f"consulta_{n}"
+        carpeta_consulta.mkdir(parents=True, exist_ok=True)
+        ruta = carpeta_consulta / f"registros_consulta_{n}.csv"
         resultado.to_csv(ruta, index=False, encoding="utf-8")
         print(f"-> guardado: {ruta}")
         resultados.append(resultado)

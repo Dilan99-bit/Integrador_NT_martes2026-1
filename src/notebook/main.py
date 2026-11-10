@@ -4,19 +4,24 @@ las consultas (HU Q01) y las gráficas (HU G01) de registros.
 
 Estructura esperada del proyecto:
     proyecto/
-    ├── reportes/                   (se crea sola, con las 3 gráficas PNG)
+    ├── data/
+    │   ├── crudo/                  (se crea sola)
+    │   ├── limpio/                 (se crea sola)
+    │   │   └── consultas/
+    │   │       ├── consulta_1/      (se crea sola)
+    │   │       ├── consulta_2/
+    │   │       ├── consulta_3/
+    │   │       ├── consulta_4/
+    │   │       └── consulta_5/
+    │   └── reportes/               (se crea sola, con las 3 gráficas PNG)
     └── src/
         └── notebook/
             ├── main.py
-            ├── simulaciones/simular_registro.py
-            ├── exportaciones/exportar_registro.py
+            ├── simulacion/simular_registro.py
+            ├── exportacion/exportar_registro.py
             ├── limpieza/limpieza_registros.py
             ├── consultas/consultas_registros.py
-            ├── reportes/reporte_registros.py
-            └── data/
-                ├── crudo/      (se crea sola)
-                ├── limpio/     (se crea sola)
-                └── consulta/   (se crea sola)
+            └── reportes/reportes_registros.py
 
 Uso (desde la raíz del proyecto):
     python src/notebook/main.py
@@ -29,8 +34,8 @@ sys.path.insert(0, str(RAIZ_PROYECTO / "src"))
 
 import pandas as pd
 
-from notebook.simulaciones.simular_registro import generar_registros
-from notebook.exportaciones.exportar_registro import (
+from notebook.simulacion.simular_registro import generar_registros
+from notebook.exportacion.exportar_registro import (
     CARPETA_CRUDO,
     NOMBRE_ENTIDAD,
     exportar_csv,
@@ -43,9 +48,10 @@ from notebook.reportes.reportes_registros import generar_reportes, imprimir_conc
 
 COLUMNAS = ["id", "fecha_registro", "observacion", "estado", "id_usuario", "id_reto"]
 ESTADOS_VALIDOS = ["en proceso", "finalizado", "inscrito"]
-CARPETA_LIMPIO = CARPETA_CRUDO.parent / "limpio"
-CARPETA_CONSULTA = CARPETA_CRUDO.parent / "consulta"
-CARPETA_REPORTES = RAIZ_PROYECTO / "reportes"
+CARPETA_DATOS = RAIZ_PROYECTO / "data"
+CARPETA_LIMPIO = CARPETA_DATOS / "limpio"
+CARPETA_CONSULTAS = CARPETA_LIMPIO / "consultas"
+CARPETA_REPORTES = CARPETA_DATOS / "reportes"
 resultados = []
 
 
@@ -175,15 +181,20 @@ print("=" * 60)
 # Las consultas leen el archivo LIMPIO que acaba de guardarse, no el sucio.
 limpio_csv = pd.read_csv(ruta_limpio, encoding="utf-8")
 (finalizados, repetidos, conteo, top_retos, por_mes), rutas_consultas = ejecutar_consultas(
-    limpio_csv, CARPETA_CONSULTA
+    limpio_csv, CARPETA_CONSULTAS
 )
 print()
 
 revisar("Son 5 consultas con su CSV cada una", len(rutas_consultas) == 5)
 for n, ruta in enumerate(rutas_consultas, start=1):
     revisar(f"Existe {ruta.name}", ruta.exists() and ruta.stat().st_size > 0)
-revisar("Están en data/consulta",
-        all(r.parent.name == "consulta" and r.parent.parent.name == "data" for r in rutas_consultas))
+revisar(
+    "Están en data/limpio/consultas/consulta_N",
+    all(
+        ruta.parent.name == f"consulta_{n}" and ruta.parent.parent == CARPETA_CONSULTAS
+        for n, ruta in enumerate(rutas_consultas, start=1)
+    ),
+)
 
 n_finalizados = int((limpio_csv["estado"] == "finalizado").sum())
 revisar("Consulta 1: solo trae estado finalizado y no queda vacía",
@@ -216,7 +227,7 @@ print()
 revisar("Son 3 gráficas PNG", len(rutas_graficas) == 3)
 for ruta in rutas_graficas:
     revisar(f"Existe {ruta.name}", ruta.exists() and ruta.stat().st_size > 0)
-revisar("Están en reportes/", all(r.parent.name == "reportes" for r in rutas_graficas))
+revisar("Están en data/reportes/", all(r.parent == CARPETA_REPORTES for r in rutas_graficas))
 revisar("Los nombres son registros_grafica_1, _2 y _3",
         [r.name for r in rutas_graficas] ==
         ["registros_grafica_1.png", "registros_grafica_2.png", "registros_grafica_3.png"])
