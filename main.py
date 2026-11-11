@@ -1,7 +1,7 @@
-# Ejecutar desde la raiz del proyecto: python main.py [empresas|registros|retos] [etapas]
-"""Punto de entrada unico del proyecto integrador (empresas, registros y retos).
+# Ejecutar desde la raiz del proyecto: python main.py [empresas|registros|retos|categorias] [etapas]
+"""Punto de entrada unico del proyecto integrador.
 
-Las tres entidades corren las mismas cinco etapas, en orden:
+Las entidades corren las mismas cinco etapas, en orden:
 
     1. simular    (HU F01)  genera los datos sucios en memoria
     2. exportar   (HU X01)  guarda data/crudo/<entidad>_sucio.csv, .xlsx y .json
@@ -11,10 +11,11 @@ Las tres entidades corren las mismas cinco etapas, en orden:
 
 Uso (desde la raiz del proyecto o desde cualquier otra carpeta):
 
-    python main.py                            # empresas, registros y retos
+    python main.py                            # empresas, registros, retos y categorias
     python main.py empresas                   # las cinco etapas de empresas
     python main.py registros                  # las cinco etapas de registros
     python main.py retos                      # las cinco etapas de retos
+    python main.py categorias                 # las cinco etapas de categorias
     python main.py retos exportar             # simula y guarda csv, xlsx y json
     python main.py retos limpiar consultar    # varias etapas en orden
 """
@@ -38,7 +39,7 @@ if str(SRC) not in sys.path:
 if str(RAIZ) not in sys.path:
     sys.path.insert(0, str(RAIZ))
 
-ENTIDADES = ("empresas", "registros", "retos")
+ENTIDADES = ("empresas", "registros", "retos", "categorias")
 ETAPAS = ("simular", "exportar", "limpiar", "consultar", "reportar")
 
 
@@ -423,6 +424,176 @@ def correr_registros(pedidas):
 
 
 # =====================================================================
+#  CATEGORIAS (flujo integrado desde la contribucion de categorias)
+# =====================================================================
+COLUMNAS_CATEGORIAS = ["id", "nombre", "descripcion", "area_responsable"]
+CARPETA_REPORTES_CATEGORIAS = RAIZ / "data" / "reportes"
+
+
+def _modulos_categorias():
+    """Carga los módulos de categorías integrados en los paquetes del proyecto."""
+    from src.notebook.simulacion import simular_categorias
+    from src.notebook.exportacion import exportar_categorias
+    from src.notebook.limpieza import limpiar_categorias
+    from src.notebook.consultas import consultas_categorias
+    from src.notebook.reportes import reporte_categorias
+    return (
+        simular_categorias,
+        exportar_categorias,
+        limpiar_categorias,
+        consultas_categorias,
+        reporte_categorias,
+    )
+
+
+def cat_simular():
+    """HU F01: genera los registros de categorías con errores intencionales."""
+    import pandas as pd
+
+    encabezado("CATEGORIAS - ETAPA 1 - SIMULAR (HU F01)")
+    df = _modulos_categorias()[0].generar_categorias()
+    print("shape:", df.shape)
+    print(df.head())
+    print("\nNulos por columna:")
+    print(df.isna().sum())
+    revisar("generar_categorias() devuelve un DataFrame", isinstance(df, pd.DataFrame))
+    revisar("Tiene las 4 columnas esperadas", list(df.columns) == COLUMNAS_CATEGORIAS)
+    revisar("Tiene 250 filas (incluye 8% duplicadas)", len(df) == 250, f"-> {len(df)}")
+    revisar("Incluye duplicados exactos", int(df.duplicated().sum()) == 20,
+            f"-> {int(df.duplicated().sum())}")
+    revisar("Incluye valores faltantes", int(df.isna().sum().sum()) > 0)
+    return df
+
+
+def cat_exportar(df=None):
+    """HU X01: exporta las categorías sucias a CSV, Excel y JSON."""
+    import pandas as pd
+
+    encabezado("CATEGORIAS - ETAPA 2 - EXPORTAR (HU X01)")
+    simular, exportar = _modulos_categorias()[:2]
+    if df is None:
+        df = simular.generar_categorias()
+    rutas = exportar.exportar_categorias(df)
+    for ruta in rutas:
+        print(f"{ruta.relative_to(RAIZ)} -> {df.shape}")
+    revisar("Se generaron CSV, XLSX y JSON",
+            len(rutas) == 3 and all(r.exists() and r.stat().st_size > 0 for r in rutas))
+    revisar("El CSV conserva filas y columnas",
+            pd.read_csv(rutas[0], encoding="utf-8").shape == df.shape)
+    revisar("El XLSX conserva filas y columnas",
+            pd.read_excel(rutas[1], sheet_name="categorias").shape == df.shape)
+    revisar("El JSON contiene todos los registros",
+            len(json.loads(rutas[2].read_text(encoding="utf-8"))) == len(df))
+    return df
+
+
+def cat_limpiar():
+    """HU L01: limpia los registros y genera el catálogo sin duplicar nombres."""
+    import pandas as pd
+
+    encabezado("CATEGORIAS - ETAPA 3 - LIMPIAR (HU L01)")
+    limpieza = _modulos_categorias()[2]
+    ruta_cruda = RAIZ / "data" / "crudo" / "categorias_sucio.csv"
+    if not ruta_cruda.exists():
+        raise SystemExit(
+            "No existe data/crudo/categorias_sucio.csv. "
+            "Ejecuta antes: python main.py categorias exportar"
+        )
+
+    sucio = pd.read_csv(ruta_cruda, dtype=str, encoding="utf-8")
+    limpio = limpieza.limpiar(sucio)
+    catalogo = limpio.drop_duplicates(subset=["nombre"]).copy()
+    rutas = limpieza.guardar_limpio(limpio, catalogo)
+    print(f"Filas antes: {len(sucio)} | despues: {len(limpio)}")
+    print(f"Categorias unicas en el catalogo: {len(catalogo)}")
+    for ruta in rutas:
+        print(f"Guardado: {ruta.relative_to(RAIZ)}")
+
+    revisar("Se eliminaron las 20 filas duplicadas", len(limpio) == len(sucio) - 20,
+            f"({len(sucio)} -> {len(limpio)})")
+    revisar("No quedan duplicados exactos", int(limpio.duplicated().sum()) == 0)
+    revisar("No quedan valores faltantes en campos requeridos",
+            int(limpio[["nombre", "descripcion", "area_responsable"]].isna().sum().sum()) == 0)
+    revisar("Los nombres quedaron normalizados y sin tildes",
+            bool(limpio["nombre"].str.fullmatch(r"[A-Za-z ]+").all()))
+    revisar("El catálogo contiene las 10 categorías", len(catalogo) == 10,
+            f"-> {len(catalogo)}")
+    revisar("Se generaron CSV, XLSX y JSON limpios",
+            len(rutas) == 4 and all(r.exists() and r.stat().st_size > 0 for r in rutas))
+    return limpio
+
+
+def cat_consultar():
+    """HU Q01: ejecuta y guarda las cinco consultas de categorías."""
+    import pandas as pd
+
+    encabezado("CATEGORIAS - ETAPA 4 - CONSULTAR (HU Q01)")
+    consultas = _modulos_categorias()[3]
+    ruta_limpia = RAIZ / "data" / "limpio" / "categorias_limpio.csv"
+    if not ruta_limpia.exists():
+        raise SystemExit(
+            "No existe data/limpio/categorias_limpio.csv. "
+            "Ejecuta antes: python main.py categorias limpiar"
+        )
+    df = consultas.cargar_datos(ruta_limpia)
+    salida = RAIZ / "data" / "limpio"
+    consultas.ejecutar_consultas(df, salida)
+    rutas = [salida / f"categorias_consulta_{n}.csv" for n in range(1, 6)]
+    revisar("Se generaron las cinco consultas",
+            all(r.exists() and r.stat().st_size > 0 for r in rutas))
+    conteo = pd.read_csv(rutas[0], index_col=0)
+    revisar("La consulta 1 suma todos los registros",
+            int(conteo.iloc[:, 0].sum()) == len(df))
+
+
+def cat_reportar():
+    """HU G01: genera tres gráficas y conclusiones de categorías."""
+    encabezado("CATEGORIAS - ETAPA 5 - REPORTAR (HU G01)")
+    reporte = _modulos_categorias()[4]
+    ruta_limpia = RAIZ / "data" / "limpio" / "categorias_limpio.csv"
+    if not ruta_limpia.exists():
+        raise SystemExit(
+            "No existe data/limpio/categorias_limpio.csv. "
+            "Ejecuta antes: python main.py categorias limpiar"
+        )
+    CARPETA_REPORTES_CATEGORIAS.mkdir(parents=True, exist_ok=True)
+    reporte.generar_reporte(ruta_limpia)
+    rutas = [
+        CARPETA_REPORTES_CATEGORIAS / f"categorias_grafica_{n}.png"
+        for n in range(1, 4)
+    ]
+    revisar("Se generaron las tres gráficas PNG",
+            all(r.exists() and r.stat().st_size > 1000
+                and r.read_bytes()[:8] == b"\x89PNG\r\n\x1a\n" for r in rutas))
+
+
+def correr_categorias(pedidas):
+    resultados.clear()
+    df = None
+    for etapa in ETAPAS:
+        if etapa not in pedidas:
+            continue
+        if etapa == "simular":
+            df = cat_simular()
+        elif etapa == "exportar":
+            df = cat_exportar(df)
+        elif etapa == "limpiar":
+            cat_limpiar()
+        elif etapa == "consultar":
+            cat_consultar()
+        else:
+            cat_reportar()
+
+    print()
+    print("=" * 60)
+    print(f"CATEGORIAS - RESULTADO: {sum(resultados)} de {len(resultados)} pruebas pasan")
+    print("=" * 60)
+    print("Categorias listo: etapas ejecutadas ->",
+          ", ".join(e for e in ETAPAS if e in pedidas))
+    return all(resultados)
+
+
+# =====================================================================
 #  RETOS (mismas etapas; csv, xlsx y json en data/crudo y data/limpio)
 # =====================================================================
 COLUMNAS_RETOS = ["id", "nombre", "descripcion", "fecha_inicio", "fecha_fin",
@@ -734,6 +905,8 @@ def main(argumentos):
         ok = correr_registros(pedidas) and ok
     if "retos" in entidades:
         ok = correr_retos(pedidas) and ok
+    if "categorias" in entidades:
+        ok = correr_categorias(pedidas) and ok
 
     sys.exit(0 if ok else 1)
 

@@ -1,0 +1,1502 @@
+[
+  {
+    "id":"81dfddf2-7626-41e3-8b21-19dc33df5631",
+    "nombre":"Finanzas",
+    "descripcion":"Ad eius dolore qui perspiciatis.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"4fdfd41f-0baa-4aa3-b6df-72d44c0b8cbe",
+    "nombre":"MARKETING",
+    "descripcion":"Assumenda in adipisci dolor magnam ad dicta officiis molestias dolore.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"2d622cbb-7e3e-4637-855a-a07e7e1db8b6",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Eius sit quis cum in eius dolor quis aut fugit.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"e10f554d-9db4-49a9-8656-552b92f3eb86",
+    "nombre":"Calidad",
+    "descripcion":"Sed nobis rem quas modi voluptate fugiat mollitia.",
+    "area_responsable":null
+  },
+  {
+    "id":"8f6236ad-2310-4fad-9325-82d4a72b3328",
+    "nombre":"Compras",
+    "descripcion":"Nulla similique neque provident aliquid dolorem enim aspernatur doloremque aut eius.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"f856a27f-7886-4236-a9c3-2e8828a9086b",
+    "nombre":"FINANZAS",
+    "descripcion":"Cum explicabo pariatur praesentium placeat architecto odio modi.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"97ed28fb-2273-40d7-b6b1-ecd0e098cba3",
+    "nombre":"Calidad",
+    "descripcion":"Cum fugit voluptatibus odit nam placeat sapiente.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"237bf885-1d01-4537-9a00-57d007216f08",
+    "nombre":"CALIDAD",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"bec1aafc-2dc6-4106-b97f-5fa4923b0183",
+    "nombre":" calidad ",
+    "descripcion":"Soluta et omnis id totam itaque eaque doloribus natus ea.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"0da865a6-39d7-4ce0-94a6-d78c19a20ea8",
+    "nombre":"Produccion",
+    "descripcion":"Incidunt nesciunt facere voluptatum consequuntur laudantium quidem similique corrupti cum.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"5c8ddd0a-1f9a-4255-8da1-3ec905e6ba0b",
+    "nombre":"LOGÍSTICA",
+    "descripcion":"Nisi harum nisi iusto dolorum mollitia velit perspiciatis beatae.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"8c990326-4f90-4177-9939-9f1954a5287b",
+    "nombre":"compras",
+    "descripcion":null,
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"937c303a-a7d9-4562-bc06-bbb316cd7c7e",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Totam sit error odit non corrupti quis molestiae quod.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"db82195b-275d-4c80-802e-e8797c7c18a3",
+    "nombre":"Finanzas",
+    "descripcion":"Ullam nobis laborum beatae facilis voluptates rem dolores dolores necessitatibus.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"32cfb29d-91a8-4dba-9152-3031b59f838e",
+    "nombre":"finanzas",
+    "descripcion":"Assumenda laborum architecto quis quisquam.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"3951ff10-c14b-4e77-9906-a93610c46ba3",
+    "nombre":"administración",
+    "descripcion":"Optio veniam cumque minus non vitae.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"10409125-0477-4a0b-8c61-a49b8fab2fea",
+    "nombre":"Produccion",
+    "descripcion":"Quidem porro quae id perferendis fuga tempore iste dolorum aperiam.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"9250d2d0-0b26-4704-8bfb-466e3a91c4dc",
+    "nombre":"Compras",
+    "descripcion":"Nihil dolorem dolore architecto.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"1f02b584-89a2-4d2a-be65-1f91b3f69c15",
+    "nombre":"Marketing",
+    "descripcion":null,
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"efa34073-e17d-49bf-b0f3-77ca14b55e06",
+    "nombre":"ADMINISTRACIÓN",
+    "descripcion":"Quos rem deleniti atque inventore incidunt iure.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"7c3c2f14-4cc5-4984-b48b-682c57a6d14b",
+    "nombre":"Finanzas",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"c84312a6-aafc-46e5-b193-fc80f8e2b7bd",
+    "nombre":"tecnología",
+    "descripcion":"Dolorum deleniti ipsum in eius.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"43abc01d-3ac2-444e-9c4e-7ae91ba6de7c",
+    "nombre":"Tecnología",
+    "descripcion":"Soluta asperiores repellat sequi atque officiis molestiae.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"677c19d3-24df-4465-942e-1691ba2690e6",
+    "nombre":" marketing ",
+    "descripcion":"Voluptas unde sed cumque.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"2df4a935-3d33-42ec-9a5f-7839b58b6853",
+    "nombre":"VENTAS",
+    "descripcion":"Laboriosam sint temporibus cum a hic unde quos eligendi.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"efe993c3-dc92-4a6f-be84-e838247132cc",
+    "nombre":"VENTAS",
+    "descripcion":"Optio laborum deleniti dolor animi quasi aperiam et amet labore.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"25f68254-b9bd-41aa-be0e-5a0056f54391",
+    "nombre":"Marketing",
+    "descripcion":"Culpa vero aspernatur delectus nisi perferendis doloremque blanditiis tempora doloribus.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"5dafec00-bcdf-43bb-88f5-c038cc5363e9",
+    "nombre":"Recursos Humanos",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"1ffdd653-a0cc-45ba-b90f-6e3614f87363",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":null,
+    "area_responsable":null
+  },
+  {
+    "id":"203ba8e8-fbcb-4a8f-83cc-5dbab6df43fe",
+    "nombre":"compras",
+    "descripcion":"Distinctio eaque ut sunt sunt fuga culpa rerum provident nostrum.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"25477e86-7004-426d-800a-49665ce74db9",
+    "nombre":"CALIDAD",
+    "descripcion":"Ab repellendus error optio vel consequatur blanditiis autem mollitia earum.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"34b6545d-c9b3-4cb3-bb9b-f6ba94b1e43c",
+    "nombre":"Ventas",
+    "descripcion":null,
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"f3c0e4e1-d9fb-4508-a4c7-c38b907c39d5",
+    "nombre":"logística",
+    "descripcion":"A quo odio ea qui.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"6f97ba4b-d494-4793-a626-3ff9a0bb6fc3",
+    "nombre":"Marketing",
+    "descripcion":null,
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"a10fecc9-762b-40a7-bd5e-c332173c484b",
+    "nombre":"administración",
+    "descripcion":"Est tempore recusandae similique tempore.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"0bca80be-954f-4f86-9189-f9d367b47c0c",
+    "nombre":" producción ",
+    "descripcion":"Placeat pariatur explicabo nam soluta voluptate.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"fe6601c8-3c10-4f99-b7f3-87497fd58af3",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Unde dolores cum reiciendis debitis impedit.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"5aa2f5e0-57b5-45e1-8349-176e02f35d7c",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Qui ex ut rem sint repellat.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"ba99bd2a-2f41-486e-ac78-a80a526478e5",
+    "nombre":"Calidad",
+    "descripcion":"Culpa praesentium fugit aliquam iusto dicta ullam.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"dd5dc13e-dfa2-4621-a060-63899d0d2748",
+    "nombre":" administración ",
+    "descripcion":"Esse recusandae dolorem ad deserunt eveniet sint vitae.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"4d26d640-2303-496f-86d0-65899e640379",
+    "nombre":"compras",
+    "descripcion":"Expedita magni perspiciatis sapiente ex adipisci soluta.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"b5b2e149-67e3-4b03-981e-6b601516a1b0",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Debitis vitae eaque autem ipsa quas et.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"f4502fa3-7f4f-4bfa-afe2-d884bda16ceb",
+    "nombre":"Finanzas",
+    "descripcion":"Voluptates blanditiis tempore deleniti aliquid ipsa maxime rem porro velit.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"ac926335-190b-4f8e-bb93-62252eceef72",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Facilis architecto optio ex et sed.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"04f4230d-ac00-4847-9cba-b294aac4bd60",
+    "nombre":"Compras",
+    "descripcion":"Magni pariatur eveniet possimus mollitia deleniti pariatur.",
+    "area_responsable":null
+  },
+  {
+    "id":"95151e35-a7f1-4812-9008-e5df9941eb5e",
+    "nombre":" compras ",
+    "descripcion":"Perspiciatis temporibus nulla error molestias a enim inventore.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"89cba7f8-e7b3-407f-8d45-a9059db148a0",
+    "nombre":"Produccion",
+    "descripcion":null,
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"1be9d72a-ba69-4cc1-bd41-9e4c41f50a1d",
+    "nombre":"Calidad",
+    "descripcion":"Excepturi repellendus quibusdam perferendis dolore dicta ad doloribus labore sed asperiores.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"ef5fe00f-d84f-4cbf-b220-e88265829962",
+    "nombre":"Finanzas",
+    "descripcion":"Suscipit nemo quaerat fugit id corporis porro tempora similique.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"e7155bb3-3d20-4290-9977-e773d9fa3d3a",
+    "nombre":"Ventas",
+    "descripcion":"Quod dolor rem possimus iure.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"9a406b31-3e0a-49df-90ca-c8b2f21c9d45",
+    "nombre":"COMPRAS",
+    "descripcion":"Dolorum sed itaque reiciendis pariatur voluptates nisi veniam tempora nostrum.",
+    "area_responsable":null
+  },
+  {
+    "id":"66093679-47a1-49e9-b161-84c91433bd7a",
+    "nombre":"logística",
+    "descripcion":"Incidunt tenetur ipsum culpa similique ipsum quibusdam saepe eius.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"35bc3e6a-f176-4eb5-950d-353f75a6789a",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Laborum dolores ipsam quae doloremque excepturi tempora aspernatur corrupti fugit.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"783c4243-b57a-468e-8e7b-aa8454295a8b",
+    "nombre":"Marketing",
+    "descripcion":"Provident aperiam illum molestiae impedit dignissimos.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"73349b91-8962-402c-8cf6-9e6c123e87ca",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":"Harum quo veniam accusantium sunt nemo labore velit error.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"2f837404-f3ca-4fb7-88fe-3c6de269900c",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Sequi veritatis in quibusdam molestias nobis dolore dolor.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"f47cd615-5198-4c33-a98e-da546dbfb0d5",
+    "nombre":"Logistica",
+    "descripcion":"Laborum harum pariatur reiciendis quam saepe ullam voluptatem modi.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"3bc0b4f6-1343-4c38-99d2-3a040ff18d42",
+    "nombre":"Producción",
+    "descripcion":null,
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"c119d396-b212-4fa9-8f61-62dc770ec605",
+    "nombre":"ventas",
+    "descripcion":"Eveniet quis fugit quibusdam rerum dolorum aspernatur accusantium molestiae.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"16a99bb5-e607-4a57-a9dc-e2ed9419ae47",
+    "nombre":"LOGÍSTICA",
+    "descripcion":"Dolore architecto vero aliquam adipisci dolorum saepe numquam.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"ee90668b-a857-4aba-a701-2cb4a2da9f84",
+    "nombre":"Finanzas",
+    "descripcion":"Commodi pariatur natus dolor praesentium quisquam cumque.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"b485225d-daa0-42ef-9436-955c5596b1b2",
+    "nombre":"Producción",
+    "descripcion":"Vitae quaerat quod cum est neque ut nemo tenetur fugiat.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"08157523-4404-458c-a39e-e6b2d89cfb3d",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Asperiores porro occaecati aut quo sed.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"c45d387c-13ee-4c41-bc8a-2f93df62e892",
+    "nombre":"Produccion",
+    "descripcion":"Rem recusandae natus aliquam minus optio architecto officia accusamus in.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"b6a2a96e-dd5d-4800-94be-20c35d49b59d",
+    "nombre":"Marketing",
+    "descripcion":"Autem vero odio repudiandae provident ipsa quasi vitae earum.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"00554068-b981-4324-984e-23061111c713",
+    "nombre":"COMPRAS",
+    "descripcion":"Quo iure repudiandae nihil eum doloribus vel eius iste quibusdam.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"51d6a354-fdb7-471e-831c-00a3ef7e3a7b",
+    "nombre":"tecnología",
+    "descripcion":"Nostrum fugiat adipisci sed delectus distinctio reiciendis excepturi sunt praesentium.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"98d1ddc4-3cd4-43d1-8e4c-8b27e6295f5e",
+    "nombre":" ventas ",
+    "descripcion":"Nam maxime deleniti dolores illo nam dolores.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"9dde5b61-ad4d-49cc-9646-5da571ff98a6",
+    "nombre":"Producción",
+    "descripcion":"Officia laudantium recusandae at dolore porro esse neque labore.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"56ff2351-6c8b-4678-a834-c302adbe0d9e",
+    "nombre":"Tecnología",
+    "descripcion":"Exercitationem voluptatum mollitia explicabo iste esse dolorem quam et quia.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"1521ff93-5988-4110-8289-a7382e729d67",
+    "nombre":"Logistica",
+    "descripcion":"Deleniti qui eius nihil quis nisi.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"711d4376-24ab-40de-be09-c240cb48b2fd",
+    "nombre":"Tecnologia",
+    "descripcion":"Rerum eos facere esse provident.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"656824ed-0827-455e-8965-09bc03bf9de6",
+    "nombre":"Logística",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"f5c383ba-6426-4a6e-9dfe-8b3ba3e2e5ef",
+    "nombre":"LOGÍSTICA",
+    "descripcion":"Aut accusamus eligendi laboriosam exercitationem vitae dolorum similique beatae.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"205d48cc-a819-4091-94c9-eb716c996447",
+    "nombre":"logística",
+    "descripcion":"Id asperiores occaecati amet corrupti.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"0c9b39b8-f66f-4f4b-adf9-52180e453d52",
+    "nombre":"CALIDAD",
+    "descripcion":"Veniam assumenda dolorum nam impedit nisi nulla quod fugit tenetur.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"47cba2fa-28dc-4a76-8536-188eaa85d808",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Similique voluptatibus esse numquam non qui veniam.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"b9e6a853-e5a6-49ef-a706-f461e11d66e9",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Numquam eaque aspernatur dolores mollitia culpa.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"55ecc190-fff5-4618-a272-ac1c46b1cb8e",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Ipsum nisi eos doloremque provident praesentium iste porro.",
+    "area_responsable":null
+  },
+  {
+    "id":"d30cf591-ffed-4d1e-88ee-5a2b9664d67b",
+    "nombre":"COMPRAS",
+    "descripcion":"Ratione numquam optio ut incidunt molestias officia.",
+    "area_responsable":null
+  },
+  {
+    "id":"885d8bc0-7651-4cbd-bf88-d4624a2b7339",
+    "nombre":" finanzas ",
+    "descripcion":"Repudiandae architecto cumque esse quibusdam necessitatibus enim.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"01926342-57a1-409f-87c0-5c69a5711c46",
+    "nombre":" compras ",
+    "descripcion":"Iusto esse illo earum molestiae ipsa.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"e9203fa8-5ac5-4328-a6ca-4109e13ec0dd",
+    "nombre":"Logística",
+    "descripcion":"Aliquam inventore eum dolorum at vitae saepe nemo veritatis voluptatum.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"71c5fac7-0999-4e09-95af-20b9912333cd",
+    "nombre":"compras",
+    "descripcion":"Nemo quis cupiditate maxime ipsam eius voluptatum.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"65d23970-3ae4-4baf-b1b6-d05df84da71d",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":"Odio laudantium at expedita ex pariatur similique ex possimus.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"9451d251-038f-4886-a1b9-25176ee87f60",
+    "nombre":" calidad ",
+    "descripcion":"Optio id quis alias at dolorum blanditiis.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"662c8f25-c46f-4023-881c-cd50178666c7",
+    "nombre":"COMPRAS",
+    "descripcion":"Sint repudiandae a sit iure amet maxime numquam.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"e19550ed-76b5-462c-b7d1-392bd3ad74e6",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":null,
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"11170f09-cfa5-4706-ab9d-1c30d74e1bd7",
+    "nombre":"Produccion",
+    "descripcion":"Reiciendis quae est accusamus illum dolore sapiente beatae veniam officia.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"e61ec18d-e16f-41c1-89b6-8516f6275bb9",
+    "nombre":"Logistica",
+    "descripcion":null,
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"77a7a2b4-283c-4a79-8c79-64685c6ccb06",
+    "nombre":"FINANZAS",
+    "descripcion":"Itaque corporis deleniti nobis quia consequatur architecto.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"253a1bd2-8dee-43d4-955f-084044778c74",
+    "nombre":" compras ",
+    "descripcion":"Excepturi ratione eaque a quas saepe neque optio sint.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"af88dbff-4d9a-4bee-add4-a8a3dbde2be1",
+    "nombre":" tecnología ",
+    "descripcion":"Molestiae exercitationem mollitia molestiae iste eum deleniti possimus nemo.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"1a49f9a2-c871-441e-bf61-c043487ce377",
+    "nombre":" recursos humanos ",
+    "descripcion":"Sequi illum et labore totam fugit voluptates.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"c24626e5-bb60-4103-acb0-83c7bc1973e7",
+    "nombre":"compras",
+    "descripcion":"Libero alias magnam nihil sit soluta.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"b579997d-70ff-43ff-99fc-739571baa608",
+    "nombre":" marketing ",
+    "descripcion":"Aut tenetur accusamus corporis sit voluptas asperiores quos eaque.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"8ace936b-2153-49c4-bde6-10d41efc07f4",
+    "nombre":" calidad ",
+    "descripcion":"Possimus officiis sequi sequi similique fugit et quaerat quis sit alias.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"82064d7b-d215-45c1-981f-52967f3b6036",
+    "nombre":"tecnología",
+    "descripcion":"Doloremque placeat enim dolorem at.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"77a1111d-61be-4ffb-bd92-3cb5b1e1f63c",
+    "nombre":"Logistica",
+    "descripcion":"Quis provident aut cumque error.",
+    "area_responsable":null
+  },
+  {
+    "id":"0e6f74e0-f60b-41ed-86b9-06d9d7944469",
+    "nombre":"Calidad",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"f2c37a38-11c1-4296-b173-356ec59dfa6d",
+    "nombre":"Ventas",
+    "descripcion":"Illum placeat debitis cupiditate non fugit placeat libero nesciunt doloremque.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"dc2b7f72-31f3-4b8d-b05c-2d81e35fc2bc",
+    "nombre":" administración ",
+    "descripcion":"Itaque pariatur tempore iure enim molestias asperiores.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"da89e5c6-b000-4324-b538-0c5d82074823",
+    "nombre":"CALIDAD",
+    "descripcion":"Voluptates error vitae porro itaque error voluptatum sequi.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"959cab00-a01b-488a-952a-81eaddd055ff",
+    "nombre":"Calidad",
+    "descripcion":"Dolores nemo nemo voluptatibus eos.",
+    "area_responsable":null
+  },
+  {
+    "id":"9c9f81eb-47fa-46b1-b730-cfef8671eaca",
+    "nombre":"Finanzas",
+    "descripcion":"Earum natus placeat quia aliquid non libero temporibus.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"5a2eeadd-facc-44f5-a943-9b611fd786de",
+    "nombre":" tecnología ",
+    "descripcion":null,
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"9d144cf9-a7d2-44d9-8098-f34eb0a719e0",
+    "nombre":"ADMINISTRACIÓN",
+    "descripcion":"Occaecati temporibus officia est ipsam neque.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"77e27208-7711-4068-acff-4a3889b87f3c",
+    "nombre":"Administración",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"7406d837-b00a-4d55-8e16-16270073d5e1",
+    "nombre":" finanzas ",
+    "descripcion":"Minus totam rerum ducimus repudiandae laboriosam rem quia.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"ac241df7-be0b-4a85-bae7-8cf8abb8f640",
+    "nombre":"Administracion",
+    "descripcion":"Rem iusto asperiores quidem dolorem perspiciatis perferendis id.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"ab8dcf6e-e2d0-48fd-bf4e-6c5b19eab2ec",
+    "nombre":"ventas",
+    "descripcion":"Facilis ratione accusamus modi iste perferendis perferendis nesciunt reprehenderit velit.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"a9a5dbad-37a1-4a56-8dbd-0433bed57572",
+    "nombre":"VENTAS",
+    "descripcion":"Perferendis iusto nulla velit eveniet.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"f62694b7-fb1b-4aef-b631-c883cd42de20",
+    "nombre":"COMPRAS",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"6cd3ab48-1089-4507-937c-30fde7690c72",
+    "nombre":" marketing ",
+    "descripcion":"Consequatur iste perferendis quia veniam in quia culpa impedit aut.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"73af0d31-9b5b-4f78-a14e-166334e7d2a1",
+    "nombre":"Finanzas",
+    "descripcion":"Nulla vel eius porro dolor ipsam doloremque facilis voluptatem.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"9b8cb7c2-5de8-4056-b571-7ce83c9ca24e",
+    "nombre":"Administracion",
+    "descripcion":"Molestias voluptate facere id deleniti commodi sed iste.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"75b8c2c1-e502-4c84-a4b9-5e5cc4c2bf11",
+    "nombre":"Finanzas",
+    "descripcion":"Odit nisi accusantium ratione doloribus commodi.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"9d8cedd2-8753-4c6f-a693-cd28f65e1348",
+    "nombre":"calidad",
+    "descripcion":"Dignissimos rerum mollitia nesciunt repellat doloremque quo ratione nisi eius.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"71da9b46-598b-4064-a81c-fd4e4a7f73f6",
+    "nombre":"Ventas",
+    "descripcion":"Voluptates molestiae reiciendis beatae sint consectetur.",
+    "area_responsable":null
+  },
+  {
+    "id":"a4640068-5850-44f1-9d9f-2ae0c166aec3",
+    "nombre":"ventas",
+    "descripcion":"Ratione dolores eum cupiditate amet qui minima quia.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"4fecfff9-c0a2-4222-8a07-4d41d9769bee",
+    "nombre":"Produccion",
+    "descripcion":"Ipsum facere nisi iste dolore nostrum quas tenetur omnis.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"408746c0-e5ed-4b85-8a1c-5303a5f4b336",
+    "nombre":"Marketing",
+    "descripcion":"Itaque vitae aperiam laboriosam illo placeat laudantium.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"d900cec4-c3b0-4441-8fcf-73e8c86279b7",
+    "nombre":"Calidad",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"0c370438-da86-4790-8c18-33deae417586",
+    "nombre":"calidad",
+    "descripcion":"Eos magni inventore recusandae beatae omnis soluta mollitia sint inventore.",
+    "area_responsable":null
+  },
+  {
+    "id":"c00eb189-78cf-4d95-bcf8-420c55277bce",
+    "nombre":"FINANZAS",
+    "descripcion":"Impedit repudiandae id quas est est ducimus.",
+    "area_responsable":null
+  },
+  {
+    "id":"065c367a-1aab-4795-bce2-910f42605d43",
+    "nombre":"Finanzas",
+    "descripcion":"Porro labore at assumenda inventore quia.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"e933f1e9-1b7a-4d7c-a47b-3b9132d64713",
+    "nombre":"CALIDAD",
+    "descripcion":"Repellat nam nesciunt natus eveniet commodi explicabo pariatur.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"0f6f50f9-7156-4232-8af7-c558f44f6372",
+    "nombre":"Marketing",
+    "descripcion":"Sint quam voluptas nobis expedita neque distinctio omnis dolore.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"01a575de-6761-4a34-9d1d-e183a1dceb94",
+    "nombre":"VENTAS",
+    "descripcion":"Expedita nam beatae eius dolorem.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"0a5a19ca-6148-461e-b498-7dc836a31350",
+    "nombre":"Marketing",
+    "descripcion":"Sapiente voluptate repellendus nostrum odit ad ut repudiandae eaque.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"bf172db3-6475-465e-abf3-686abe309d0c",
+    "nombre":"Marketing",
+    "descripcion":"Earum quis ullam expedita delectus corporis.",
+    "area_responsable":null
+  },
+  {
+    "id":"3035e161-e6ed-40a7-8445-42778a53ecc3",
+    "nombre":"compras",
+    "descripcion":"Architecto qui voluptas at minus fugiat iste culpa.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"cec6e280-fb53-4006-a34e-f69cf62d7bc3",
+    "nombre":"logística",
+    "descripcion":"Quam quod necessitatibus assumenda amet culpa nulla.",
+    "area_responsable":null
+  },
+  {
+    "id":"5c34972d-914c-46c4-9d6e-3c109e28dc0b",
+    "nombre":"MARKETING",
+    "descripcion":"Earum optio laborum ipsam earum.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"93589dd9-9880-485a-87d4-893a91055617",
+    "nombre":"Produccion",
+    "descripcion":"Beatae inventore eligendi perspiciatis laborum pariatur aliquid hic nobis ab.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"c38ef38c-08cc-47b6-9046-2dde9238e468",
+    "nombre":"Compras",
+    "descripcion":"Veniam quisquam quisquam enim blanditiis libero inventore.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"0aed80aa-7cdc-4b1a-ac4a-453be0197254",
+    "nombre":"Finanzas",
+    "descripcion":"Fugit provident magnam rerum rem asperiores.",
+    "area_responsable":null
+  },
+  {
+    "id":"d034cb00-1d89-425a-b066-3070bcfecebb",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Ipsa itaque aspernatur est inventore.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"d7c24b33-9467-4f80-80e1-455923c4ccd6",
+    "nombre":"Ventas",
+    "descripcion":"Quae in beatae accusantium eveniet reiciendis nulla rerum.",
+    "area_responsable":null
+  },
+  {
+    "id":"8feb1dd6-c103-4e4c-97ad-6eb315894270",
+    "nombre":" recursos humanos ",
+    "descripcion":"At sapiente doloribus nihil minima id est excepturi.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"eae9b505-7726-4eb9-a983-095c05b839dc",
+    "nombre":"logística",
+    "descripcion":"Quod asperiores odio minus deserunt quod expedita vero.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"144f2ec1-e8dd-440a-b705-ef0900d96ce3",
+    "nombre":"logística",
+    "descripcion":"Dolores corporis deserunt nobis quis omnis.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"c6a3561c-784d-4fd3-88c4-f72a7f135e36",
+    "nombre":"Tecnología",
+    "descripcion":null,
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"16062a1b-ba50-48d2-8e92-41d3cd2fe3de",
+    "nombre":" calidad ",
+    "descripcion":"Officia voluptates eum voluptas et ipsam iusto occaecati recusandae nihil.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"5b6db992-ef51-4204-9a11-0477812900a3",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Magni est iste animi rerum asperiores sint sequi.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"b4419a4a-0824-4916-86a9-c5d23ad1408e",
+    "nombre":" recursos humanos ",
+    "descripcion":"Nisi fugit neque veritatis qui aliquam tenetur nemo deleniti non magnam.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"429e35c7-55b1-4ed9-a7b7-752033390c35",
+    "nombre":"recursos humanos",
+    "descripcion":"Ipsum repellat saepe voluptatem assumenda.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"f6964b68-3eec-4604-a13c-cb100273fdea",
+    "nombre":"tecnología",
+    "descripcion":"Aliquam provident voluptatibus minima non facilis.",
+    "area_responsable":null
+  },
+  {
+    "id":"3e06c84b-c16e-4d4a-aa0c-9c47836c7e54",
+    "nombre":" finanzas ",
+    "descripcion":"Harum quo perspiciatis amet occaecati ex ex.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"7fef0a3f-972e-49c3-a974-46598607e934",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Perspiciatis eligendi quam omnis temporibus sit ex nesciunt consequuntur expedita.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"bf381340-5c08-4e21-9dd1-5de97b93b8e9",
+    "nombre":"producción",
+    "descripcion":null,
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"38b26ffb-44e8-4a38-8321-55742ee1007a",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":"Atque perferendis magni accusantium est veritatis exercitationem quisquam deleniti voluptatum.",
+    "area_responsable":null
+  },
+  {
+    "id":"cc64625f-c907-4a07-94d8-5b915f575cd6",
+    "nombre":" tecnología ",
+    "descripcion":"Aspernatur sapiente aut quo rerum sunt.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"070791db-b0de-464e-83e0-40c30825ca04",
+    "nombre":"Marketing",
+    "descripcion":"Optio soluta nulla nisi culpa.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"41aa23cf-cb7b-4195-8f77-99d9e97715d6",
+    "nombre":"Ventas",
+    "descripcion":"Rerum quo repellat cumque ipsa illum.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"b61dc73f-71d3-44f1-a27a-233a167b16db",
+    "nombre":"calidad",
+    "descripcion":"Voluptas nostrum quibusdam quos doloremque dolores vitae.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"ac23d4e3-9d95-41e2-a4ed-db7955e6c98f",
+    "nombre":"finanzas",
+    "descripcion":"Temporibus deserunt perspiciatis necessitatibus ipsam quo quod magnam in.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"d60c84a7-2d73-4b43-bb6f-8b11b2d76db8",
+    "nombre":"administración",
+    "descripcion":"Repellendus reiciendis consequuntur dolorum odit soluta.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"3779e509-64ff-4d4f-adfe-788f7f9baa72",
+    "nombre":"Finanzas",
+    "descripcion":"Vel quae maiores commodi assumenda cum ipsum maiores rerum at.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"82823c31-1d93-4c66-a295-73671fb51097",
+    "nombre":"ventas",
+    "descripcion":"Repellendus suscipit ut impedit id fugiat harum.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"f8ab5c5c-b0f9-421c-9af0-28796f7914d8",
+    "nombre":"Administracion",
+    "descripcion":null,
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"147c9afc-974f-40a1-84f5-8f04fb955e65",
+    "nombre":"Compras",
+    "descripcion":"Consequuntur enim rerum possimus consequuntur provident.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"43f18cf1-23f1-4d59-ae66-980e0b480d13",
+    "nombre":"Marketing",
+    "descripcion":"Nostrum temporibus accusantium dolor corrupti velit non incidunt quod.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"76e7c0f2-1127-47f5-b3d4-a83eb90b8e54",
+    "nombre":"Compras",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"c73810c9-3871-439f-a788-227ce064c082",
+    "nombre":"CALIDAD",
+    "descripcion":null,
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"da49067f-f069-43e1-aaf1-6051fff594d3",
+    "nombre":"Compras",
+    "descripcion":"Voluptate architecto minima magni voluptates mollitia hic iusto odio voluptatem.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"8758adc1-344d-44df-9c95-4e69fa7a9a8b",
+    "nombre":"Ventas",
+    "descripcion":"Quibusdam explicabo architecto dolores omnis aut neque.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"1a05a542-a109-4c44-a28b-d4bf8d0f843b",
+    "nombre":"finanzas",
+    "descripcion":null,
+    "area_responsable":null
+  },
+  {
+    "id":"9b209a64-ac37-47c2-abf1-0264dd08a0cf",
+    "nombre":" marketing ",
+    "descripcion":"Repellat aperiam quod itaque eos aliquam.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"610d1808-245f-4388-83dc-c8075d7e4a42",
+    "nombre":"compras",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"ed273581-4f52-4955-9b6d-b4c1c67916ba",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Quidem deleniti explicabo quos sint.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"f4ed2734-0440-4c56-8b92-59de7efb0a0c",
+    "nombre":"COMPRAS",
+    "descripcion":"Earum reiciendis ipsa id ipsam vero excepturi deleniti.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"c31d3886-0a52-4c25-a9ee-c68fe5fd0d7c",
+    "nombre":"administración",
+    "descripcion":null,
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"a17dba5e-7a05-496c-b1ff-5c04ceca1449",
+    "nombre":"Calidad",
+    "descripcion":"Aspernatur optio esse nobis incidunt.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"de46dc6f-68f0-4c05-98bb-de329d32e006",
+    "nombre":"MARKETING",
+    "descripcion":"Expedita aliquam sit explicabo voluptatum earum voluptatem veniam asperiores.",
+    "area_responsable":null
+  },
+  {
+    "id":"62b3b1a8-39ce-4dad-9cf6-4940a2b9cd92",
+    "nombre":"Administracion",
+    "descripcion":"Facilis reiciendis perspiciatis veritatis consequuntur non quos alias.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"5cc56baa-1caa-4cc6-a792-fdd9cb393f69",
+    "nombre":" ventas ",
+    "descripcion":"Doloremque officia facere veniam adipisci.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"51914d7d-c550-45b2-9b3d-b2cd48bad063",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"3ed1cc05-c195-4131-a439-756f895b7a6a",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Et eius vero ad delectus maxime totam blanditiis.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"cc1d2113-f90f-46d1-a68a-5de9911d2bea",
+    "nombre":"finanzas",
+    "descripcion":"Provident dolor nostrum possimus voluptatum dicta consequatur.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"f5ef358d-2c04-46c1-aaf4-8dde3fe2422d",
+    "nombre":"administración",
+    "descripcion":"Iste tempore ipsum assumenda placeat.",
+    "area_responsable":null
+  },
+  {
+    "id":"c2dba64f-b83d-4a25-8b1e-eaf15203895f",
+    "nombre":"tecnología",
+    "descripcion":"Pariatur quae mollitia enim error culpa quae praesentium.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"5c778655-af6f-4d22-a449-e1eeff525b8b",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":"Recusandae magni commodi dicta consequuntur ratione.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"aaa18a68-fa0c-493b-84c5-00ad67bc508d",
+    "nombre":"LOGÍSTICA",
+    "descripcion":"Facere nemo iusto voluptatem consectetur.",
+    "area_responsable":null
+  },
+  {
+    "id":"a83ad7d9-d9ce-4434-a3d2-10884d8d0c1c",
+    "nombre":"Administración",
+    "descripcion":"Aperiam id quaerat laboriosam illum.",
+    "area_responsable":null
+  },
+  {
+    "id":"83542810-f37f-4002-b095-69aa246f6f31",
+    "nombre":"Compras",
+    "descripcion":"Reprehenderit asperiores voluptas odit ipsum perspiciatis exercitationem soluta.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"bc1eee98-6d54-482e-8dda-c32ee86fb00f",
+    "nombre":" compras ",
+    "descripcion":"Odit delectus vitae inventore tenetur animi commodi corrupti cum eum.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"07de4b86-2fbb-4a6a-b12f-a5af39db7658",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":null,
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"fe9c64a0-3f5e-4b25-a5f9-48154073ed3e",
+    "nombre":"Logística",
+    "descripcion":"Numquam nostrum atque odit nihil neque.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"610c52e2-6746-4491-849d-8538d1f49ab4",
+    "nombre":"TECNOLOGÍA",
+    "descripcion":"Omnis quam non sapiente natus repudiandae.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"e3d730bc-dce3-41b8-b775-493f48a8b862",
+    "nombre":" calidad ",
+    "descripcion":"Aspernatur veniam quo eaque distinctio.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"6d943cb8-39c2-4a07-972a-98ec276edbd7",
+    "nombre":"CALIDAD",
+    "descripcion":null,
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"7950905c-1f62-4dd0-a71f-4a04f2364413",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Porro culpa impedit iure excepturi.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"70e7799c-e765-4b5d-89a3-86355cf32cb6",
+    "nombre":"Calidad",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"c60d854e-d0e0-43d1-bb1f-39eed01998d2",
+    "nombre":" ventas ",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"d6c2abd5-3ebc-49c5-b214-a8f4ee37aabc",
+    "nombre":" calidad ",
+    "descripcion":"In vitae temporibus repellendus ut quam deleniti cum voluptatum iure soluta.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"7d25db6c-e95d-47b9-ab6c-f313b7858442",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Ad veniam magnam vitae dolor explicabo amet libero sunt.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"8a27a69d-4936-4718-b026-f9e1d73f4dd8",
+    "nombre":" producción ",
+    "descripcion":null,
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"a6863a2a-6be9-4759-bfde-eac41effa8ab",
+    "nombre":"tecnología",
+    "descripcion":"Deserunt mollitia asperiores magnam quisquam eius voluptatibus perspiciatis blanditiis voluptate.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"e960f94a-4cff-4582-b9c3-c18404c1aa4c",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Fuga voluptates nam facilis corporis nobis illo aliquam.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"7d374594-7625-481e-bd3c-f1164eab7997",
+    "nombre":"Producción",
+    "descripcion":"Consequatur ex labore itaque non.",
+    "area_responsable":null
+  },
+  {
+    "id":"6d6117c4-4c5f-41a6-bf11-de09a11529a1",
+    "nombre":"MARKETING",
+    "descripcion":"Consequuntur ut et hic nulla sapiente nisi magni magni laudantium.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"eba1fff7-8139-45d1-a7ac-31a89642f4e0",
+    "nombre":"ventas",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"0675770f-db0b-43af-a73f-19b29121728e",
+    "nombre":"FINANZAS",
+    "descripcion":"Eaque omnis voluptas neque dolorem amet laboriosam minima quam.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"a8b56d80-f699-4717-98ab-45e31f8fcb68",
+    "nombre":" tecnología ",
+    "descripcion":"Corporis perspiciatis adipisci veniam beatae accusantium et corrupti.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"2555ab0f-8a63-4697-84a0-823b91223602",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Illum quod ullam sit quasi aperiam.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"e9bc8d41-3de6-4164-97bb-69bbb0dd23e1",
+    "nombre":" compras ",
+    "descripcion":"Maxime natus voluptatum laboriosam fugiat vero.",
+    "area_responsable":null
+  },
+  {
+    "id":"a34cb6e2-84ea-4f43-a92f-ef85f6866c58",
+    "nombre":" calidad ",
+    "descripcion":"Totam exercitationem explicabo quo quam officia possimus nostrum deleniti.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"161908cf-a131-4a0d-befc-af76fadca6cc",
+    "nombre":"LOGÍSTICA",
+    "descripcion":"Eius error velit voluptatem quo provident porro.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"5fb144a0-8ef0-41ea-87ec-621f9773eb0e",
+    "nombre":"Compras",
+    "descripcion":"Et expedita ut recusandae earum commodi perspiciatis fugit voluptatem.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"9b0eb346-1906-47f0-a224-02baf4395a40",
+    "nombre":"Logistica",
+    "descripcion":null,
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"1d750d68-b2ad-458a-af68-428d21f4c367",
+    "nombre":"Producción",
+    "descripcion":"Distinctio repudiandae earum natus earum autem qui dolores amet.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"9cff1e47-e99d-4300-ad02-c0034d9874cf",
+    "nombre":" marketing ",
+    "descripcion":"Dolorem doloremque aut ex iusto perspiciatis consequuntur vitae voluptate culpa.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"46339647-4624-413d-86ed-063fff6d6f90",
+    "nombre":"Calidad",
+    "descripcion":"Labore dicta vitae eum officia tenetur at nemo modi.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"8f6c33df-26b9-43f6-8a97-c4cabad08d65",
+    "nombre":" tecnología ",
+    "descripcion":"Totam cupiditate sunt cupiditate ullam.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"e2878d82-8572-4abb-8b5a-399d9596a1a7",
+    "nombre":" marketing ",
+    "descripcion":"Ratione delectus quibusdam sit enim alias error nobis.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"4bd0f1a7-010e-4c63-9593-ebf3cee824d1",
+    "nombre":" logística ",
+    "descripcion":"Eligendi voluptatibus molestiae laudantium vel sed iusto deserunt.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"e5e715f7-af9b-4bd5-84af-7898a97ca409",
+    "nombre":"COMPRAS",
+    "descripcion":"Ex quasi officia quaerat accusamus.",
+    "area_responsable":null
+  },
+  {
+    "id":"6d2991a0-7ac8-4d8d-821a-fd9157069dfd",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Ratione necessitatibus quidem cupiditate sequi tempore repudiandae maiores.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"20baaa9b-78f3-45ce-87a8-0a0bd0668f0a",
+    "nombre":" logística ",
+    "descripcion":null,
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"69f53a43-445a-4264-95ac-1f165cca8224",
+    "nombre":"Administración",
+    "descripcion":"Ea doloremque quidem veritatis.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"56a88d1e-c9f9-4eda-a698-f5588da1c4ac",
+    "nombre":"COMPRAS",
+    "descripcion":"Nesciunt nemo ea facere dolores pariatur iure.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"dc7148e4-1ced-4872-bcbe-ea57fb979121",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Illo magnam tempora provident est blanditiis.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"8fdabee7-9b3d-45c2-9d22-521d0cec03d4",
+    "nombre":"compras",
+    "descripcion":null,
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"92953cf0-f026-4aba-a69a-1bd121abc575",
+    "nombre":"producción",
+    "descripcion":"Totam quidem reiciendis repudiandae quis perspiciatis nisi ratione minima minus.",
+    "area_responsable":"Sistemas"
+  },
+  {
+    "id":"64ac91e1-a9fc-47e7-b892-4df389b877d1",
+    "nombre":"compras",
+    "descripcion":"Aspernatur natus aperiam molestias magnam nemo corrupti eveniet.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"4d3a2ff0-4069-4fb0-bf62-3a63d7177663",
+    "nombre":"Marketing",
+    "descripcion":"Ipsam perspiciatis quaerat laborum tempore ipsum animi consequatur impedit natus.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"a7425f23-6a24-4dd2-b23d-1fda8fdbc64c",
+    "nombre":"Logistica",
+    "descripcion":null,
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"653ca7ef-c318-4e42-b538-09b2a9534972",
+    "nombre":"VENTAS",
+    "descripcion":"Vel architecto ut adipisci illum.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"d06b6e0b-a6bd-44c2-b3c6-825a3ba059db",
+    "nombre":"Finanzas",
+    "descripcion":"Quisquam voluptatem officia in voluptatibus fugit.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"c45d387c-13ee-4c41-bc8a-2f93df62e892",
+    "nombre":"Produccion",
+    "descripcion":"Rem recusandae natus aliquam minus optio architecto officia accusamus in.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"66093679-47a1-49e9-b161-84c91433bd7a",
+    "nombre":"logística",
+    "descripcion":"Incidunt tenetur ipsum culpa similique ipsum quibusdam saepe eius.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"8f6c33df-26b9-43f6-8a97-c4cabad08d65",
+    "nombre":" tecnología ",
+    "descripcion":"Totam cupiditate sunt cupiditate ullam.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"f856a27f-7886-4236-a9c3-2e8828a9086b",
+    "nombre":"FINANZAS",
+    "descripcion":"Cum explicabo pariatur praesentium placeat architecto odio modi.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"82823c31-1d93-4c66-a295-73671fb51097",
+    "nombre":"ventas",
+    "descripcion":"Repellendus suscipit ut impedit id fugiat harum.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"dd5dc13e-dfa2-4621-a060-63899d0d2748",
+    "nombre":" administración ",
+    "descripcion":"Esse recusandae dolorem ad deserunt eveniet sint vitae.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"b485225d-daa0-42ef-9436-955c5596b1b2",
+    "nombre":"Producción",
+    "descripcion":"Vitae quaerat quod cum est neque ut nemo tenetur fugiat.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"f3c0e4e1-d9fb-4508-a4c7-c38b907c39d5",
+    "nombre":"logística",
+    "descripcion":"A quo odio ea qui.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"408746c0-e5ed-4b85-8a1c-5303a5f4b336",
+    "nombre":"Marketing",
+    "descripcion":"Itaque vitae aperiam laboriosam illo placeat laudantium.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"f4ed2734-0440-4c56-8b92-59de7efb0a0c",
+    "nombre":"COMPRAS",
+    "descripcion":"Earum reiciendis ipsa id ipsam vero excepturi deleniti.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"203ba8e8-fbcb-4a8f-83cc-5dbab6df43fe",
+    "nombre":"compras",
+    "descripcion":"Distinctio eaque ut sunt sunt fuga culpa rerum provident nostrum.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"5b6db992-ef51-4204-9a11-0477812900a3",
+    "nombre":"RECURSOS HUMANOS",
+    "descripcion":"Magni est iste animi rerum asperiores sint sequi.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"2f837404-f3ca-4fb7-88fe-3c6de269900c",
+    "nombre":"Recursos Humanos",
+    "descripcion":"Sequi veritatis in quibusdam molestias nobis dolore dolor.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"a4640068-5850-44f1-9d9f-2ae0c166aec3",
+    "nombre":"ventas",
+    "descripcion":"Ratione dolores eum cupiditate amet qui minima quia.",
+    "area_responsable":"Dirección General"
+  },
+  {
+    "id":"cc1d2113-f90f-46d1-a68a-5de9911d2bea",
+    "nombre":"finanzas",
+    "descripcion":"Provident dolor nostrum possimus voluptatum dicta consequatur.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"00554068-b981-4324-984e-23061111c713",
+    "nombre":"COMPRAS",
+    "descripcion":"Quo iure repudiandae nihil eum doloribus vel eius iste quibusdam.",
+    "area_responsable":"Comercial"
+  },
+  {
+    "id":"7d25db6c-e95d-47b9-ab6c-f313b7858442",
+    "nombre":"PRODUCCIÓN",
+    "descripcion":"Ad veniam magnam vitae dolor explicabo amet libero sunt.",
+    "area_responsable":"Suministros"
+  },
+  {
+    "id":"c24626e5-bb60-4103-acb0-83c7bc1973e7",
+    "nombre":"compras",
+    "descripcion":"Libero alias magnam nihil sit soluta.",
+    "area_responsable":"Gestión Humana"
+  },
+  {
+    "id":"f4502fa3-7f4f-4bfa-afe2-d884bda16ceb",
+    "nombre":"Finanzas",
+    "descripcion":"Voluptates blanditiis tempore deleniti aliquid ipsa maxime rem porro velit.",
+    "area_responsable":"Operaciones"
+  },
+  {
+    "id":"b61dc73f-71d3-44f1-a27a-233a167b16db",
+    "nombre":"calidad",
+    "descripcion":"Voluptas nostrum quibusdam quos doloremque dolores vitae.",
+    "area_responsable":"Operaciones"
+  }
+]

@@ -1,18 +1,43 @@
 # Integrador_NT_martes2026-1
 
-Proyecto de analítica que genera las gráficas PNG en `data/reportes` y las
+Proyecto de analítica que genera gráficas PNG en `data/reportes` y las
 expone por una API FastAPI en `http://localhost:8000`.
+
+## Ejecutar el flujo
+
+Desde la raíz del proyecto:
+
+```powershell
+pip install -r requirements.txt
+python main.py
+```
+
+El comando ejecuta las cinco etapas del proyecto para empresas, registros,
+retos y categorías. Para ejecutar únicamente el aporte de categorías:
+
+```powershell
+python main.py categorias
+```
+
+También se pueden ejecutar etapas específicas en orden:
+
+```powershell
+python main.py categorias exportar limpiar consultar reportar
+```
+
+Las categorías se exportan a `data/crudo/`, se limpian y consultan en
+`data/limpio/`, y sus gráficas quedan en `data/reportes/`.
 
 ## Iniciar los servicios
 
-Desde la raíz de este proyecto, inicia Spring Boot en el puerto `8081` y
-después inicia la API de analítica:
+Inicia Spring Boot en el puerto `8081` y después, desde la raíz de este
+proyecto, inicia la API de analítica:
 
 ```powershell
 .\.venv\Scripts\python.exe -m uvicorn api:app --host 127.0.0.1 --port 8000
 ```
 
-Inicia el Frontend II desde
+El Frontend II se inicia desde
 `C:\Users\dilan\Music\Integrador_frontend_II_2026` con `npm run dev`; Vite
 queda en `http://localhost:3000`. El Frontend II usa la sesión de Spring por
 cookie y configura la API de gráficas con `VITE_ANALYTICS_URL` en `.env`.
