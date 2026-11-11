@@ -1,0 +1,3 @@
+,id,nombre,descripcion,fecha_inicio,fecha_fin,estado,id_empresa,id_categoria,id_prioridad,duracion_dias,fecha_valida
+45,19985f15-ff00-4d4d-9020-59e4ff9ab5c2,Nulla dolores totam corporis itaque ducimus,Pariatur tempore iure enim molestias asperiores veniam voluptates error vitae porro.,2026-10-13,2026-11-15,EN_CURSO,972a8469-1641-4f82-8b9d-2434e465e150,43b7a3a6-9a8d-4a03-980d-7b71d8f56413,ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,33.0,True
+264,a3404f08-b341-41b8-ad65-22b4b5a5f8e6,Aut molestiae molestias earum velit rem nemo,Architecto nostrum excepturi ipsam consectetur iusto perferendis autem amet.,2026-06-14,2026-08-12,EN_CURSO,47378190-96da-4dac-b2ff-5d2a386ecbe0,371ecd7b-27cd-4130-8722-9389571aa876,759cde66-bacf-43d0-8b1f-9163ce9ff57f,59.0,True

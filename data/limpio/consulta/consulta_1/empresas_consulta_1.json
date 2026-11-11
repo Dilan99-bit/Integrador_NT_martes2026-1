@@ -1,6 +1,6 @@
 [
   {
-    "id":"22f880cd-fcd6-46b2-9ed1-5deccd6437ff",
+    "id":"148bec63-8855-4a2e-bd69-79874764ec66",
     "nombre":"GONZÁLEZ, VILLAMIZAR AND VARGAS",
     "nit":"2181960013",
     "sector":"Servicios",
@@ -11,7 +11,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"96ebf365-3457-49b7-8faf-eaed357a57a2",
+    "id":"ce7c3ed1-cbb5-401b-b4e1-141f853e9363",
     "nombre":"MOSQUERA LLC",
     "nit":"9407816184",
     "sector":"Agroindustria",
@@ -22,7 +22,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"44ec7907-e656-4a05-a850-734d273200b6",
+    "id":"4a6cc6cc-20d2-49d3-be3e-8d9b6db46f03",
     "nombre":"Pérez, Padilla and Pérez",
     "nit":"6483503056",
     "sector":"Tecnología",
@@ -33,7 +33,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6aaccab6-ea04-45fb-b3dd-f5bee1c6939e",
+    "id":"c095cbed-62b4-4327-a09e-d097d130d735",
     "nombre":"RINCÓN, TOVAR AND PRIETO",
     "nit":"2269166978",
     "sector":"Servicios",
@@ -44,7 +44,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"3744cd5b-8754-40af-8425-8ec2bd3fe5c6",
+    "id":"6455fad6-a198-4266-9406-a60e61fe583a",
     "nombre":"Alfonso-Oviedo",
     "nit":"3465787133",
     "sector":"Manufactura",
@@ -55,7 +55,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"bad16b1a-a553-4cae-8a36-1b08d90007ca",
+    "id":"8e7f138a-5c85-4e1f-9bac-b74e733247f3",
     "nombre":"Ortega, Serna and Arévalo",
     "nit":"3116566701",
     "sector":"Tecnología",
@@ -66,7 +66,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"07f371cb-b1be-4cd0-bc33-77aae92086f7",
+    "id":"4af5e2ee-4d2d-40d0-a706-fe8418a1fd47",
     "nombre":"Pérez Group",
     "nit":"7360260647",
     "sector":"Manufactura",
@@ -77,7 +77,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"739aa9b9-bc53-43a0-b7a4-65c0fb0e3cf9",
+    "id":"d904b36d-cdf2-4c52-abb6-a0087463c1be",
     "nombre":"Martínez PLC",
     "nit":"4413432756",
     "sector":"Salud",
@@ -88,7 +88,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"80491abb-fad2-473c-bb9b-ceb60bce8415",
+    "id":"2b00934a-c0b9-4f7b-9554-6193b4b2f872",
     "nombre":"Reyes, Espitia and Sanabria",
     "nit":"1640052427",
     "sector":"Manufactura",
@@ -99,7 +99,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6f3f5589-1e52-4304-9c59-e09336ab71a7",
+    "id":"0f658701-24d5-4d44-bdf7-3c5c50c1adb0",
     "nombre":"Rico-González",
     "nit":"4294019655",
     "sector":"Agroindustria",
@@ -110,7 +110,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"e575c9bf-3ab7-4516-a857-ce06213fb6ce",
+    "id":"ca9dd19c-777b-486a-af98-f09cb92956e7",
     "nombre":"Álvarez, Arévalo and Sánchez",
     "nit":"0379176936",
     "sector":"Servicios",
@@ -121,7 +121,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"00535120-3517-4835-a3ab-3deff8f3db13",
+    "id":"7fb55755-6608-490d-b2ea-ac0e4d9835b3",
     "nombre":"Muñoz LLC",
     "nit":"3755646417",
     "sector":"Agroindustria",
@@ -132,7 +132,7 @@
     "correo_valido":"False"
   },
   {
-    "id":"1fbf8f4d-2a41-424d-a44a-95d0a34d076c",
+    "id":"2c545427-d3d2-42cb-a5c7-dfa4c659817c",
     "nombre":"Muñoz, Arias and Calderón",
     "nit":"1241904966",
     "sector":"Educación",
@@ -143,7 +143,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"10c1ed09-42e0-4ee0-8eaf-c769a160c01c",
+    "id":"e04b567f-a82f-41e2-81b4-e60f3e801066",
     "nombre":"Galindo, Cruz and Sánchez",
     "nit":"2849877694",
     "sector":"Salud",
@@ -154,7 +154,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"d0b9c4a3-a6a4-47e9-bae6-1de1ec9f74dc",
+    "id":"e292253d-81ad-4e25-aaff-c1b04b4e1427",
     "nombre":"Ramos, Vanegas and Rendón",
     "nit":"8941343524",
     "sector":"Tecnología",
@@ -165,7 +165,7 @@
     "correo_valido":"False"
   },
   {
-    "id":"dc432e1b-fa43-4226-82c9-c8a801eeecca",
+    "id":"3ea9818d-1f47-45b2-82e3-4759ede6625f",
     "nombre":"Ibarra-Acosta",
     "nit":"1671902294",
     "sector":"Manufactura",
@@ -176,7 +176,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"cd93e51a-4702-44e7-a54c-7d1aba6d2e15",
+    "id":"913ad9db-17c7-4006-8342-ade59cd142dc",
     "nombre":"García, Moreno and Caicedo",
     "nit":"2067974034",
     "sector":"Agroindustria",
@@ -187,7 +187,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"f6df6cea-3c89-4052-baa7-a465bd3e3207",
+    "id":"2bcc82f0-bbc0-4430-bd4b-0b9d597ce572",
     "nombre":"Zambrano, Jaramillo and Gutiérrez",
     "nit":"1746488771",
     "sector":"Tecnología",
@@ -198,7 +198,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"877decbf-58ac-411b-95f0-77940524f438",
+    "id":"85da75b0-cfc5-4111-84bd-dd34e222e11b",
     "nombre":"Alfonso-Hernández",
     "nit":"9517187026",
     "sector":"Construcción",
@@ -209,7 +209,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"741ec212-566c-437f-95f2-5622fff7b0eb",
+    "id":"0b1a7fd7-4cb2-40cc-a8de-8ab84fcee218",
     "nombre":"Mantilla-Ochoa",
     "nit":"1724005045",
     "sector":"Agroindustria",
@@ -220,7 +220,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6261850f-0388-4476-9c41-169038b47911",
+    "id":"91d3cc21-eafb-441f-a319-140e544154a2",
     "nombre":"VÁSQUEZ, GARCÍA AND GARCÉS",
     "nit":"9464743671",
     "sector":"Comercio",
@@ -231,7 +231,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"8c2785e0-4260-4b6d-acff-56ffc63eeb17",
+    "id":"277eab50-d28f-4b6b-8a70-62f591993e60",
     "nombre":"Díaz-González",
     "nit":"7139005329",
     "sector":"Manufactura",
@@ -242,7 +242,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"eb580475-b018-4722-9d38-75f138d8081b",
+    "id":"cf5c47ca-206d-45e3-ab76-012657cf6b39",
     "nombre":"Roa Inc",
     "nit":"6152809885",
     "sector":"Servicios",
@@ -253,7 +253,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"0387caea-3084-49a6-80c8-bb734f9f93ac",
+    "id":"b65e2b25-46d4-41be-8dee-c517d9fd7eef",
     "nombre":"MEZA-MORALES",
     "nit":"4936899809",
     "sector":"Construcción",
@@ -264,7 +264,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6ca67d9a-c152-48c2-a769-4fe23e3824e7",
+    "id":"f12283a9-3ff8-4189-ae70-f65cc91cdb56",
     "nombre":"Ramírez and Sons",
     "nit":"2445107622",
     "sector":"Educación",
@@ -275,7 +275,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"79835ed7-6e31-4fd4-9605-b3f5dc51691e",
+    "id":"9d57af07-0fa6-4e4a-886d-0ea46c81d30b",
     "nombre":"Pérez-Erazo",
     "nit":"7516136968",
     "sector":"Agroindustria",
@@ -286,7 +286,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"16913a3c-b6d4-4942-b44b-e248bb33599c",
+    "id":"7622f9c0-8870-42b1-9fee-22f795471744",
     "nombre":"López-Buitrago",
     "nit":"4492519254",
     "sector":"Construcción",
@@ -297,7 +297,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b94413a1-674d-43ec-942d-c3ba00f5b82a",
+    "id":"fb74fc37-fc62-4619-8a0a-4b85522ac66f",
     "nombre":"Lozano LLC",
     "nit":"7359774688",
     "sector":"Servicios",
@@ -308,7 +308,7 @@
     "correo_valido":"False"
   },
   {
-    "id":"c6793790-881a-487e-bd7b-df0a6e75a686",
+    "id":"0cb2615a-bbd7-4344-9f39-8b6597e0d2a7",
     "nombre":"Marín-Becerra",
     "nit":"9121535396",
     "sector":"Agroindustria",
@@ -319,7 +319,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ebfc9f55-ea64-40f2-8aa6-89d5c1bbbed1",
+    "id":"28df0616-e4c8-4911-b69e-4e78195649b8",
     "nombre":"Martínez, Ríos and Galindo",
     "nit":"2258313237",
     "sector":"Construcción",
@@ -330,7 +330,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"021d014c-d091-4282-af59-5b633a7ae838",
+    "id":"7b7a5822-e72b-4884-a477-5ad50716ece6",
     "nombre":"Rodríguez-Garcés",
     "nit":"8733950047",
     "sector":"Comercio",
@@ -341,7 +341,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ed1a65ec-9456-4f15-9969-0726f6e612b1",
+    "id":"627cd9ec-2cad-4d1a-aee2-331b74f9a64b",
     "nombre":"Luna-Trujillo",
     "nit":"9121655852",
     "sector":"Agroindustria",
@@ -352,7 +352,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"39e30898-8f52-4658-a1b0-656d307db2d0",
+    "id":"01167a91-e6c5-4a88-82a8-adb415235387",
     "nombre":"Guerrero-Peña",
     "nit":"3689702838",
     "sector":"Comercio",
@@ -363,7 +363,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"4b57a65b-6e3e-4f51-993d-184068184dfa",
+    "id":"af1ec082-9090-42c1-a7d7-2bc7b412f836",
     "nombre":"Zuluaga, Triana and Niño",
     "nit":"8516122753",
     "sector":"Tecnología",
@@ -374,7 +374,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"132038c9-552f-4dc0-9f4f-234b635725ed",
+    "id":"59e75529-09d6-4320-8fc2-5dcab45802c5",
     "nombre":"Alarcón, Jiménez and Ávila",
     "nit":"6372395041",
     "sector":"Tecnología",
@@ -385,7 +385,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"332797b8-0c34-4cc0-a2df-63ed4fc6a98f",
+    "id":"8cd60351-2a70-4ad6-95ab-1ceb93a3ff61",
     "nombre":"Castañeda Ltd",
     "nit":"6567661825",
     "sector":"Servicios",
@@ -396,7 +396,7 @@
     "correo_valido":"False"
   },
   {
-    "id":"a790d54a-8ebd-4b6b-abf6-d5431537296b",
+    "id":"5eea0403-2466-40ed-8133-6fed4dd68c84",
     "nombre":"Muñoz LLC",
     "nit":"1751830469",
     "sector":"Salud",
@@ -407,7 +407,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"423c4e29-a7a9-4027-8372-666e9ba25e35",
+    "id":"9002b807-1af0-456d-9b87-ad15ad1a458a",
     "nombre":"Olaya-Cruz",
     "nit":"3341016668",
     "sector":"Servicios",
@@ -418,7 +418,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"244b6b2e-3de5-420b-ab1c-19c109a80916",
+    "id":"d85a2d0d-8077-4bf6-9151-38235ff0b876",
     "nombre":"Navarro, Díaz and Gaitán",
     "nit":"0392614293",
     "sector":"Tecnología",
@@ -429,7 +429,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"d6e7db2f-ca34-4ebb-a517-1c76a911a981",
+    "id":"589cb254-5bc8-4dd1-8aeb-7b520e69481d",
     "nombre":"GÓMEZ-CASTRO",
     "nit":"7735866296",
     "sector":"Construcción",
@@ -440,7 +440,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"81ef3d81-9d36-4f06-b18c-7b7c1cfad343",
+    "id":"0fb2e1a8-180e-40f9-8840-fee14474aa6c",
     "nombre":"Díaz Group",
     "nit":"8886101581",
     "sector":"Tecnología",
@@ -451,7 +451,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"54e199f8-e5e9-4f14-8dd7-813976641556",
+    "id":"4e214c4b-4d5e-4bb0-b9fe-870c33d2e064",
     "nombre":"Mejía Group",
     "nit":"4715437993",
     "sector":"Manufactura",
@@ -462,7 +462,7 @@
     "correo_valido":"False"
   },
   {
-    "id":"8df8cd28-b767-4a65-9a4e-a4ee1644505a",
+    "id":"b2cd07df-fa42-48ac-a155-b60200b0d0d4",
     "nombre":"TAMAYO-JIMÉNEZ",
     "nit":"7935646519",
     "sector":"Manufactura",
@@ -473,7 +473,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"9c6614c8-4dd1-44cf-9551-8b568f9587fd",
+    "id":"51ce6a3a-05c9-4783-9323-e2cfb483e990",
     "nombre":"Cardona PLC",
     "nit":"1003236519",
     "sector":"Servicios",
@@ -484,7 +484,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"04b5f4da-2e08-498b-8842-4b1242058eab",
+    "id":"e8640aa7-f3fb-4ed7-ad65-ee652fa899ac",
     "nombre":"Muñoz Group",
     "nit":"8596969155",
     "sector":"Educación",
@@ -495,7 +495,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"06ed6e4e-892d-491c-bdab-7d54d230c71e",
+    "id":"dba8f96c-4715-4a33-ba0c-fcf1c00ef0ac",
     "nombre":"Arrieta PLC",
     "nit":"5962923309",
     "sector":"Salud",
@@ -506,7 +506,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"5515eb59-21f1-4da3-99a6-404f04c83a18",
+    "id":"3a961032-4151-4deb-8659-addc374b01f8",
     "nombre":"Sánchez-Barrera",
     "nit":"6671168457",
     "sector":"Servicios",
@@ -517,7 +517,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ffc41b5c-fea5-4bb3-93a4-992df1f335f8",
+    "id":"dd90bf9a-3eba-418d-ad70-353709b7e283",
     "nombre":"Rojas, Zambrano and Villegas",
     "nit":"9731121965",
     "sector":"Educación",
@@ -528,7 +528,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"fbb8633d-bedb-4a12-8199-700da5603aff",
+    "id":"0257066d-0175-460f-947b-bc42679d6b5c",
     "nombre":"Zapata Inc",
     "nit":"3791805526",
     "sector":"Servicios",
@@ -539,7 +539,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"29dd6576-416a-48ca-addc-0e22b2ecc1db",
+    "id":"5d867c57-0d6f-4064-988d-9f72d5d512bc",
     "nombre":"Muñoz, Arias and Zambrano",
     "nit":"4105648149",
     "sector":"Servicios",
@@ -550,7 +550,7 @@
     "correo_valido":"False"
   },
   {
-    "id":"6393f4fb-c17d-4998-bb86-fe8553bb172d",
+    "id":"2810c12c-9bf5-4786-a6d5-98e4f1ece32c",
     "nombre":"Flórez-Sánchez",
     "nit":"0863536541",
     "sector":"Tecnología",
@@ -561,7 +561,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"38247ac0-6c1c-4a9b-98d9-5512cc7a299e",
+    "id":"bfcf7f2c-143b-438b-9a47-33b29b8ce15f",
     "nombre":"Serna, Mena and Vargas",
     "nit":"5973832060",
     "sector":"Educación",
@@ -572,7 +572,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"08d7a3d0-293f-4baf-bf9b-1fd437666000",
+    "id":"a3c9672a-61b7-4069-a868-a743639ab462",
     "nombre":"LARA, CRUZ AND CANO",
     "nit":"9182619906",
     "sector":"Salud",
@@ -583,7 +583,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"f48a3ba6-2e64-428a-9113-e1c6a4da3f77",
+    "id":"07c3ef57-8987-4dc1-99c9-8d05f3c54938",
     "nombre":"López-Alzate",
     "nit":"1003236519",
     "sector":"Tecnología",
@@ -594,7 +594,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"f07a2c32-aec6-428d-ad15-f058360b1cf5",
+    "id":"e0cd1af6-fcd4-494d-b532-055c70c5d5ed",
     "nombre":"Carrillo-Pérez",
     "nit":"3244720999",
     "sector":"Educación",
@@ -605,7 +605,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"3fd2dc0d-b733-45a2-9bca-ecb38f4ac745",
+    "id":"f71114da-25d6-4418-8aa0-18f0d3dd7c5b",
     "nombre":"RUIZ, ORTIZ AND RODRÍGUEZ",
     "nit":"4294019655",
     "sector":"Manufactura",
@@ -616,7 +616,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"507f5c1f-d682-4608-a5b9-e97087ae74f3",
+    "id":"cec6607e-b263-4406-b585-ec5cc5837c54",
     "nombre":"SÁNCHEZ, NÚÑEZ AND PEREA",
     "nit":"7842701039",
     "sector":"Servicios",
@@ -627,7 +627,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6503d790-62c2-4466-8f32-d45f51679512",
+    "id":"ad24021f-90c4-481d-86f9-cdd189b87be5",
     "nombre":"López Group",
     "nit":"9872050614",
     "sector":"Manufactura",
@@ -638,7 +638,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"d5fa60cd-1007-4ea1-bd62-3d13cb7d500e",
+    "id":"45e59b1a-fafa-4d92-8d2c-0302b232f1a3",
     "nombre":"Ortiz Group",
     "nit":"4349021158",
     "sector":"Salud",
@@ -649,7 +649,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"05f1b857-9ba2-4b99-8322-26a8bfc922af",
+    "id":"08f2bc1f-8e6a-45a7-98b1-6d7a8060b898",
     "nombre":"Riascos, Sánchez and Núñez",
     "nit":"7223320616",
     "sector":"Salud",
@@ -660,7 +660,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"dc483fa7-1860-44f0-b309-93c58811e89e",
+    "id":"bddf97cd-6779-41e1-8d3f-bffae9d4aa13",
     "nombre":"Murillo, Alfonso and López",
     "nit":"1914856467",
     "sector":"Educación",
@@ -671,7 +671,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b2f41fad-24f9-4adc-9e69-d1e763d3af88",
+    "id":"f98f9bff-cb35-435a-9886-aa07a5495409",
     "nombre":"Pérez, Meneses and Torres",
     "nit":"9446657437",
     "sector":"Agroindustria",
@@ -682,7 +682,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"cb0d1004-6322-42f4-98e3-516e3333c1cd",
+    "id":"4a3bfe76-0220-451b-abf8-8004cfabe55d",
     "nombre":"Valencia, Castro and Hoyos",
     "nit":"4328309652",
     "sector":"Manufactura",
@@ -693,7 +693,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"3e6f528b-aed5-4584-9c7c-faad76e8f6c6",
+    "id":"286e7091-5067-42af-bb59-600a437756f9",
     "nombre":"Jiménez Group",
     "nit":"2482513534",
     "sector":"Construcción",
@@ -704,7 +704,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6a276b42-9615-415e-baee-f44292eed354",
+    "id":"712ad214-d69e-40ae-8638-e7661e75587b",
     "nombre":"Gómez and Sons",
     "nit":"5058300335",
     "sector":"Comercio",
@@ -715,7 +715,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"fe4d7e07-4f43-4b74-b71d-9c3e72e4b0a0",
+    "id":"d3ca5a0a-94ca-471f-affc-aec7bbcadc5c",
     "nombre":"TORRES LTD",
     "nit":"2309821506",
     "sector":"Servicios",
@@ -726,7 +726,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"28e85796-7796-4e2d-8f1b-02439db2892e",
+    "id":"1e2a6f92-6be9-4dce-9524-fa270a7b9bb6",
     "nombre":"Ortiz, Ardila and Arias",
     "nit":"5216674676",
     "sector":"Servicios",
@@ -737,7 +737,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b50e1b79-c265-46fd-b65f-1d5f6abac7a5",
+    "id":"7a6496ba-87aa-4c69-b5d8-b2133fb54c84",
     "nombre":"Mendoza-Martínez",
     "nit":"5089935889",
     "sector":"Manufactura",
@@ -748,7 +748,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"f9af0949-f9de-4692-a529-9c6f7ff58afe",
+    "id":"7f3958d2-9ec9-4adb-9933-364997562e78",
     "nombre":"Quintero-Castañeda",
     "nit":"9757113055",
     "sector":"Agroindustria",
@@ -759,7 +759,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"8b4a4961-e8b1-487c-9dda-ed138be2293c",
+    "id":"74748c19-445b-476f-bee3-4f8c8b0944ba",
     "nombre":"Luna-Ramírez",
     "nit":"5160917798",
     "sector":"Construcción",
@@ -770,7 +770,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"2de20624-66f0-4b90-b89b-cd4267fab3a0",
+    "id":"6ab7f4f8-c062-445b-bd0c-990730232d83",
     "nombre":"Castro-Ortiz",
     "nit":"2940572025",
     "sector":"Servicios",
@@ -781,7 +781,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"40003695-2dc5-40b1-a67f-3883646a39af",
+    "id":"c6ef9669-73ad-431a-b187-87ff98ad2c16",
     "nombre":"LÓPEZ-TORRES",
     "nit":"3555439878",
     "sector":"Educación",
@@ -792,7 +792,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6d77f77f-6985-4d4a-bff3-2b1270d9918f",
+    "id":"f6ee6bbb-3864-4a32-a67b-32939ccfcf9a",
     "nombre":"Velásquez-Córdoba",
     "nit":"3466766506",
     "sector":"Agroindustria",
@@ -803,7 +803,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b4eabfc7-fbf2-4267-991f-57babfca8b37",
+    "id":"5d3737f2-d2e5-4206-b74d-bd167b7e2514",
     "nombre":"Cano PLC",
     "nit":"4245088210",
     "sector":"Construcción",
@@ -814,7 +814,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"633e3793-4c0b-494f-bdf7-dd301f856d5a",
+    "id":"2883113d-dfd3-4b12-aedb-caadffd194f2",
     "nombre":"Vargas-Torres",
     "nit":"6452577754",
     "sector":"Agroindustria",
@@ -825,7 +825,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ae77ac99-a7f9-4025-aa05-01941ddbfabf",
+    "id":"5ad550b6-1b4a-4eb0-a748-3eaae95eb76a",
     "nombre":"Ríos-Molano",
     "nit":"7256394278",
     "sector":"Educación",
@@ -836,7 +836,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"83b8897c-b8ee-45bc-b9f7-d944bad07e17",
+    "id":"babf2aed-c1ff-43a9-a0cd-67fd0e677d07",
     "nombre":"Nieto, Mendoza and Torres",
     "nit":"8432225913",
     "sector":"Servicios",
@@ -847,7 +847,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"5b9411d8-a12c-4493-b670-fd68e8a7a952",
+    "id":"918daf4f-67ae-4bd3-bbd4-5e5d4bb2bd55",
     "nombre":"Sánchez, Pérez and Caballero",
     "nit":"8699041379",
     "sector":"Agroindustria",
@@ -858,7 +858,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"c2288e52-3a0b-4a34-9b5f-6f75ea74603a",
+    "id":"94d1f26e-d53e-4072-aee7-6f30e7654992",
     "nombre":"Guzmán PLC",
     "nit":"6291279908",
     "sector":"Servicios",
@@ -869,7 +869,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"57c07b52-4f66-4732-82b6-37bae21876e7",
+    "id":"7980c48f-87a3-4faf-b6d8-a68cf93f1cbb",
     "nombre":"Carrillo-Triana",
     "nit":"0714163356",
     "sector":"Manufactura",
@@ -880,7 +880,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"769d1b18-7e33-4577-b94f-a53b5ceb3dd2",
+    "id":"f5f52f0a-254b-4154-bb34-f31cec32dd96",
     "nombre":"Silva Group",
     "nit":"7786603242",
     "sector":"Manufactura",
@@ -891,7 +891,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"296a2196-bbeb-4d00-abd7-aacce55dc218",
+    "id":"184793da-8f0b-4482-90f7-5f20aac14f38",
     "nombre":"Espinosa, Morales and Castillo",
     "nit":"7292931438",
     "sector":"Construcción",
@@ -902,7 +902,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"aaaefa86-fff2-47ce-86db-c037b54a3bb2",
+    "id":"27059b4b-25b7-4662-810b-72a5c44a0785",
     "nombre":"López-Pérez",
     "nit":"3471754558",
     "sector":"Agroindustria",
@@ -913,7 +913,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"501b0239-8b20-4ee4-a6aa-cf8363bbb1fd",
+    "id":"9bb320e0-94dc-41ed-a28f-88ec3c78a13b",
     "nombre":"Medina Inc",
     "nit":"1780068114",
     "sector":"Manufactura",
@@ -924,7 +924,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"a6c9d493-7fc8-4d18-a7be-1a32f6dd9dff",
+    "id":"30b2fd25-ff62-421a-8a40-0cb7b64850f9",
     "nombre":"MONTOYA, VEGA AND CRUZ",
     "nit":"9688457831",
     "sector":"Servicios",
@@ -935,7 +935,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"e7f51903-2bf9-4f00-98b0-10966ae1546e",
+    "id":"54a3fa1d-ba64-4bb8-aeec-ca12ed7c26cd",
     "nombre":"FIGUEROA-SALCEDO",
     "nit":"1367303718",
     "sector":"Comercio",
@@ -946,7 +946,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"755f742f-4828-4bc6-acea-e8f154de65a2",
+    "id":"b19f2440-6bfa-489b-8c34-d6e777ad48f6",
     "nombre":"Camargo-Navarro",
     "nit":"8638782945",
     "sector":"Tecnología",
@@ -957,7 +957,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"5db216d5-4669-4242-b831-6c8768878bed",
+    "id":"38d04df4-d962-4398-9d8e-340ff44b06f6",
     "nombre":"Erazo, Velásquez and Velásquez",
     "nit":"1957612286",
     "sector":"Salud",
@@ -968,7 +968,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"9ce948cc-acac-4ccf-ada2-8706bc4af665",
+    "id":"68a69461-7f58-4df9-b01c-7c24108a1530",
     "nombre":"Burgos-Cardona",
     "nit":"6004908240",
     "sector":"Tecnología",
@@ -979,7 +979,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"47a82252-a1d5-4442-91ba-a9900dc35bff",
+    "id":"3c3ae49c-a0d6-4fbd-a28f-7403f7df112d",
     "nombre":"Montoya-Sánchez",
     "nit":"8320679981",
     "sector":"Manufactura",
@@ -990,7 +990,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"5fb5817d-4ed3-4db5-afea-ad6e42b7080f",
+    "id":"a7651059-6768-4177-b0fb-439c542eb3f1",
     "nombre":"Garcés, Martínez and Durán",
     "nit":"5104636815",
     "sector":"Comercio",
@@ -1001,7 +1001,7 @@
     "correo_valido":"False"
   },
   {
-    "id":"305a1cb1-4c89-4402-8cd9-3666f5713b1a",
+    "id":"4583a43c-3dfe-43b6-9c1a-b873750db22c",
     "nombre":"Orjuela PLC",
     "nit":"4046084325",
     "sector":"Salud",
@@ -1012,7 +1012,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"13d80a82-62aa-4edd-a073-5571dc53a259",
+    "id":"64046d34-f7ee-4add-b2ec-07ad10af8053",
     "nombre":"Pacheco-Burbano",
     "nit":"2629251881",
     "sector":"Educación",
@@ -1023,7 +1023,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"2ec70aa9-d3f4-4ea9-b32e-5ae0078bdef2",
+    "id":"e5184b48-96eb-4f36-bab3-9a80d0cf36a1",
     "nombre":"Valencia, Cruz and Vargas",
     "nit":"6096569998",
     "sector":"Construcción",
@@ -1034,7 +1034,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"db15d5ef-044f-4ce2-abc2-223e8b332fd9",
+    "id":"af0fb9bb-8ce6-441a-b76f-c520827e8bae",
     "nombre":"Jiménez-Villegas",
     "nit":"8277181298",
     "sector":"Tecnología",
@@ -1045,7 +1045,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ffe7905b-764c-4282-88f1-2d42cb51586d",
+    "id":"c3439ba3-7731-4ddf-885e-89727a76cd44",
     "nombre":"Flórez, Mercado and Molina",
     "nit":"2686025922",
     "sector":"Manufactura",
@@ -1056,7 +1056,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ac9ac6da-9115-47c4-897e-14ce3aa7ada6",
+    "id":"32a6d6c2-254e-4574-a4f5-ce383b640443",
     "nombre":"Moreno-Fernández",
     "nit":"7767199038",
     "sector":"Salud",
@@ -1067,7 +1067,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"00d4c1ba-4ac1-4ec1-94de-cb8c0daf8e63",
+    "id":"ee6c6827-cc15-4a25-94f4-1fb6ad5bf723",
     "nombre":"Gutiérrez, Durán and Bermúdez",
     "nit":"9827950145",
     "sector":"Agroindustria",
@@ -1078,7 +1078,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"c5301cba-038f-4fba-80d7-67981fad402a",
+    "id":"56ec1cd7-e096-4c26-8e20-cbd34a4e3d8b",
     "nombre":"CASTRO, ANGULO AND ÁLVAREZ",
     "nit":"8850155699",
     "sector":"Salud",
@@ -1089,7 +1089,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b067ed6e-eb6e-4f00-8cd9-4e75a6d9286f",
+    "id":"3353cab8-67a8-4472-a6b7-9b51c3e5084b",
     "nombre":"Buitrago, Cortés and Rodríguez",
     "nit":"9551240568",
     "sector":"Manufactura",
@@ -1100,7 +1100,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"89eabbcf-2931-4c8b-9380-92a27869e742",
+    "id":"6857316b-1fee-4531-9090-ba16ff73848e",
     "nombre":"Castaño Inc",
     "nit":"7807823578",
     "sector":"Agroindustria",
@@ -1111,7 +1111,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"a2e6208a-6398-45ed-a83d-dcd7fb300c48",
+    "id":"10aba412-23e8-407c-8911-9d289f44b20b",
     "nombre":"López Ltd",
     "nit":"4094353344",
     "sector":"Agroindustria",
@@ -1122,7 +1122,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"5f13787c-6719-45e0-9945-f56ccc8554c2",
+    "id":"61c8e461-335f-4fc9-b1b7-aad1e1eafaa6",
     "nombre":"Pérez, Ramos and Martínez",
     "nit":"3966958321",
     "sector":"Salud",
@@ -1133,7 +1133,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"bb8a0a26-0518-43bc-89df-3f7f20b7da5e",
+    "id":"51bd02e9-2d95-4be5-a5ab-86e4c1ee8da6",
     "nombre":"Durán Group",
     "nit":"8469973354",
     "sector":"Salud",
@@ -1144,7 +1144,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"4f1de497-f198-46f5-bc53-7e66370b126c",
+    "id":"795923e6-7ca6-430b-8815-7e4e694d58d4",
     "nombre":"Moreno Ltd",
     "nit":"9656666832",
     "sector":"Agroindustria",
@@ -1155,7 +1155,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"39233f80-73da-4631-b9c7-7ba1d8671f64",
+    "id":"033b31a6-27da-433a-82f0-edf1158c2603",
     "nombre":"Agudelo, Osorio and Díaz",
     "nit":"8687653269",
     "sector":"Salud",
@@ -1166,7 +1166,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"e7f2ae53-c459-4f41-b4c7-3f8cafe7a374",
+    "id":"8cb71cb4-e575-4c84-9b58-0637e4a1a79a",
     "nombre":"Cerón, Montes and Trujillo",
     "nit":"4712814429",
     "sector":"Salud",
@@ -1177,7 +1177,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"a15e261a-7331-4bbc-b934-5807d5415020",
+    "id":"59e18a1f-629e-4c4d-a478-397b746ed228",
     "nombre":"Velasco Group",
     "nit":"6372395041",
     "sector":"Construcción",
@@ -1188,7 +1188,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"aeffa8b5-bff7-4157-a22e-7000814be54d",
+    "id":"70ac61de-20d3-43d0-a82a-a6e569ef5970",
     "nombre":"Bermúdez Group",
     "nit":"9087766183",
     "sector":"Agroindustria",
@@ -1199,7 +1199,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"c765aeee-43e4-4c13-a3c0-691136cdff19",
+    "id":"41c178f1-d4d4-42c2-95a6-9d97e8251ba7",
     "nombre":"Alvarado-Ospino",
     "nit":"8373403127",
     "sector":"Agroindustria",
@@ -1210,7 +1210,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"e4b89acc-3061-4579-9583-e3a3c8e515af",
+    "id":"17557c6a-5d6e-4bcd-8bac-cfeb4b79d6ef",
     "nombre":"Mejía-Torres",
     "nit":"9290600780",
     "sector":"Educación",
@@ -1221,7 +1221,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"fa95f94f-4e2e-4ec9-834a-b84158532f16",
+    "id":"223cc8d9-85d2-4cd5-8808-9ab5e027939b",
     "nombre":"Cruz, Jaramillo and Orozco",
     "nit":"7726257016",
     "sector":"Educación",
@@ -1232,7 +1232,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"4d91a997-0db2-4162-823f-fb09364c26cb",
+    "id":"ce492fbe-22cb-41d5-a07c-bb98632db322",
     "nombre":"Galindo Group",
     "nit":"1162411241",
     "sector":"Construcción",
@@ -1243,7 +1243,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b7f37d89-3add-433f-ac9c-2d2c093845a9",
+    "id":"8dc6dd98-b9da-48d0-ae74-d39e7d21005c",
     "nombre":"HERRERA, JAIMES AND VALENCIA",
     "nit":"9887749242",
     "sector":"Tecnología",
@@ -1254,7 +1254,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"507e877f-fb8e-44d1-8f7c-bffc51484106",
+    "id":"6c27ba45-ab1c-4c53-b4a5-eb3bdc89b7f9",
     "nombre":"Chacón PLC",
     "nit":"2745238055",
     "sector":"Tecnología",
@@ -1265,7 +1265,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"61e66f77-452c-4243-9c99-d28285dcaf02",
+    "id":"5a2abe29-54a8-4d59-bc46-fc12fb7f15ec",
     "nombre":"Sánchez, Ospina and Fajardo",
     "nit":"7517028140",
     "sector":"Comercio",
@@ -1276,7 +1276,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ae85ec52-ea57-458e-a336-4c6f6fb52978",
+    "id":"bff65cb2-4185-4ce4-af15-0623d50e8afa",
     "nombre":"Calderón, Barbosa and Gamboa",
     "nit":"5626565045",
     "sector":"Manufactura",
@@ -1287,7 +1287,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"17dbe6cb-d146-4699-a590-6a5a34b8a119",
+    "id":"6b453acd-7a4f-4ec5-982b-c80d46abbc31",
     "nombre":"Ojeda-Silva",
     "nit":"5196106462",
     "sector":"Educación",
@@ -1298,7 +1298,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b9cfd8ab-4105-4057-8690-6d1ff8d2d690",
+    "id":"ed6bf5fa-1933-4e4b-beda-0ca2659d96e5",
     "nombre":"López and Sons",
     "nit":"8338988816",
     "sector":"Educación",
@@ -1309,7 +1309,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"4e7873c7-7ce0-4de6-9dcc-0fc70a4d2b89",
+    "id":"28541bc1-d9d6-4da6-9b72-6c4e3096bf01",
     "nombre":"Rojas Inc",
     "nit":"6110760310",
     "sector":"Tecnología",
@@ -1320,7 +1320,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"338f71a5-992c-4478-b2d9-0e095e9e324a",
+    "id":"6cbf4f51-5e81-44af-beaf-1746ce5bc2ba",
     "nombre":"LOZANO-BERMÚDEZ",
     "nit":"1586734257",
     "sector":"Educación",
@@ -1331,7 +1331,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"cc9818d9-74fc-4f68-a357-1457063dfd79",
+    "id":"9770545e-536a-4018-b64e-7c5e7facfd9d",
     "nombre":"Bohórquez-Palacio",
     "nit":"5644948562",
     "sector":"Comercio",
@@ -1342,7 +1342,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"421c74d6-7854-4f7e-b5be-a42f2c965289",
+    "id":"3ebcd813-754b-4af2-98eb-517afab6e5cd",
     "nombre":"Londoño, Cruz and González",
     "nit":"2151342284",
     "sector":"Salud",
@@ -1353,7 +1353,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6ce741bf-a65b-41b9-8341-17919e994bc9",
+    "id":"85ac1640-bde7-479d-ab4b-d08fbbe05e55",
     "nombre":"Cruz Ltd",
     "nit":"7749050975",
     "sector":"Tecnología",
@@ -1364,7 +1364,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"1ec78d41-e68b-4e20-a750-c9a98ec358d6",
+    "id":"5c09ba30-6dd8-4fae-b809-3029d228eae2",
     "nombre":"Benítez Inc",
     "nit":"1645977945",
     "sector":"Salud",
@@ -1375,7 +1375,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"557242f4-10cc-4950-825a-c11da1ab98f1",
+    "id":"95ec3b4a-cec7-42b0-ab7a-9a8e685d4feb",
     "nombre":"JIMÉNEZ GROUP",
     "nit":"0501667998",
     "sector":"Salud",
@@ -1386,7 +1386,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"d88449ac-c118-4464-b740-7108744ab201",
+    "id":"15e8006e-ad60-42b3-a375-e6b8a051dcb8",
     "nombre":"GUTIÉRREZ-PÉREZ",
     "nit":"4565328632",
     "sector":"Salud",
@@ -1397,7 +1397,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"5c2e4fa7-fee6-4c71-bfc2-c26def23211f",
+    "id":"bc310944-a39b-4559-98af-0686e1dfea4c",
     "nombre":"Serna, Forero and Sandoval",
     "nit":"6831589357",
     "sector":"Educación",
@@ -1408,7 +1408,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"ad6c6a20-f81a-478b-aeec-fca775b03209",
+    "id":"38b0f42e-c38c-4747-9c74-b8e99bcb7082",
     "nombre":"Arroyo-Suárez",
     "nit":"7022960443",
     "sector":"Salud",
@@ -1419,7 +1419,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"fb9e728f-152a-41c6-88ab-c0fc103b4f0b",
+    "id":"84006567-c381-4fb7-b3e8-a181054b1427",
     "nombre":"Gaviria LLC",
     "nit":"1996636580",
     "sector":"Educación",
@@ -1430,7 +1430,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"14d5b408-6d9f-4af6-9f25-4b64cd91bb46",
+    "id":"70f8b12c-2b99-4991-b09a-825ccaf0a436",
     "nombre":"Buitrago-Martínez",
     "nit":"5200461526",
     "sector":"Manufactura",
@@ -1441,7 +1441,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"c714102d-49ee-49c4-a727-5c7e51bdc8de",
+    "id":"7bcadcf9-5e13-4c97-bac8-edc53932e262",
     "nombre":"Barrera-Caro",
     "nit":"0489138249",
     "sector":"Salud",
@@ -1452,7 +1452,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"8d4f28f6-5e23-4b75-87d0-fdabcfe06f7c",
+    "id":"3e7fbcf8-dcba-4082-afa2-e33e9a5ef619",
     "nombre":"LÓPEZ, BERNAL AND GIL",
     "nit":"0785931109",
     "sector":"Salud",
@@ -1463,7 +1463,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"1d8d281f-6d1d-48de-9687-13dc2bfafe15",
+    "id":"2356cad7-0d9c-4c9f-940d-6ce60c4519c2",
     "nombre":"Suárez, Valencia and López",
     "nit":"0730337933",
     "sector":"Manufactura",
@@ -1474,7 +1474,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"eeb9cb9c-a558-4dd8-9702-934fc7902585",
+    "id":"be29b11e-30be-4d80-9109-93ab0c79d6ae",
     "nombre":"Bastidas and Sons",
     "nit":"3423425832",
     "sector":"Construcción",
@@ -1485,7 +1485,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"df818f00-d82b-4cda-9d2a-63e57173ab5f",
+    "id":"da594ffb-63fa-484a-92b5-02fbc375b19d",
     "nombre":"Sánchez and Sons",
     "nit":"3386559630",
     "sector":"Servicios",
@@ -1496,7 +1496,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"35a68996-0c92-40ba-b48b-0749b925262f",
+    "id":"4f870ad3-5ad9-4da0-b300-46ef91aaa172",
     "nombre":"Díaz-Amaya",
     "nit":"8777496903",
     "sector":"Manufactura",
@@ -1507,7 +1507,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"a434c440-49a1-4902-bf94-1489fbb077bc",
+    "id":"747617bd-b86e-4c5b-9033-ce39792fd0eb",
     "nombre":"GÓMEZ, MOLINA AND QUINTERO",
     "nit":"7766575460",
     "sector":"Tecnología",
@@ -1518,7 +1518,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"9d81cbd3-fced-44b4-9ff9-d3cfabd45f7d",
+    "id":"e8a1dfc7-1f40-4e5f-b8b0-58e668cceb99",
     "nombre":"Suárez-Ayala",
     "nit":"4392840445",
     "sector":"Comercio",
@@ -1529,7 +1529,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"3141e0bf-ce2d-4596-a0f2-db65f3c2460c",
+    "id":"d497fd1e-d757-483f-be95-6fb97c32e9f3",
     "nombre":"Vera, Caro and Córdoba",
     "nit":"6636186371",
     "sector":"Servicios",
@@ -1540,7 +1540,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"6213fe9e-9630-49c1-a3cf-261ea068a1f1",
+    "id":"d478082a-c6f6-438a-b928-6bd2822d9c06",
     "nombre":"Arroyo Group",
     "nit":"1693859777",
     "sector":"Construcción",
@@ -1551,7 +1551,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"8cf9f9bb-a21d-4465-be82-3d4e0a92d596",
+    "id":"4512c8fa-26a9-4a5e-ae61-22e51e14a630",
     "nombre":"Medina Inc",
     "nit":"3248413768",
     "sector":"Servicios",
@@ -1562,7 +1562,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"9ef5f250-568b-4f74-ae17-0473847fcb0d",
+    "id":"7ef52c16-1404-41ef-a35a-485580363aed",
     "nombre":"González-Alarcón",
     "nit":"5777118372",
     "sector":"Agroindustria",
@@ -1573,7 +1573,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"66591a33-14ef-4028-966b-c8a67a629880",
+    "id":"11711b22-4ee5-4bb1-8add-da0256b81299",
     "nombre":"Bustos-Carvajal",
     "nit":"6252571509",
     "sector":"Tecnología",
@@ -1584,7 +1584,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"0cd7fb92-5693-4b36-97a9-f5ffc7d03fbf",
+    "id":"7a404681-2502-4654-8f84-a103cac53248",
     "nombre":"Rivera Ltd",
     "nit":"0397524508",
     "sector":"Tecnología",
@@ -1595,7 +1595,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b43985c7-a719-4255-afc4-42180af0a1bf",
+    "id":"107e82dc-a41e-4fd1-8902-db82762f4658",
     "nombre":"GARCÍA-RAMÍREZ",
     "nit":"2321298338",
     "sector":"Agroindustria",
@@ -1606,7 +1606,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"af6c04f6-df34-4c5f-b0ee-c2e458249f40",
+    "id":"0a128f9e-cb1e-4c7b-9e79-43264c564016",
     "nombre":"Rivera LLC",
     "nit":"1509377100",
     "sector":"Educación",
@@ -1617,7 +1617,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"4e608916-ff93-4dbc-a921-dca44278e012",
+    "id":"b3b720d5-7f7a-4fec-b9e3-efd13ae76501",
     "nombre":"Mena-Alzate",
     "nit":"5671649328",
     "sector":"Educación",
@@ -1628,7 +1628,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"8cd6ce54-4458-4cd8-94bc-0c39872275e9",
+    "id":"2930808d-7f32-47b8-b572-e8cefb6edc27",
     "nombre":"OVIEDO LLC",
     "nit":"6434712871",
     "sector":"Salud",
@@ -1639,7 +1639,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"344be9e4-0505-4d76-9f9e-dfc0a07b0104",
+    "id":"7a0aab68-4981-438c-9b08-27a57f1304c9",
     "nombre":"Quiroga-Osorio",
     "nit":"2015720185",
     "sector":"Tecnología",
@@ -1650,7 +1650,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"b6484fcd-a351-4421-b298-fdb82c109ed3",
+    "id":"9c667bd7-8c7a-441f-821b-018a43198959",
     "nombre":"López, Chávez and Castaño",
     "nit":"2340163611",
     "sector":"Construcción",
@@ -1661,7 +1661,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"53420b8f-01cf-4798-8ca5-b35e9454e871",
+    "id":"f4c95066-a8e9-488a-9660-0e1af9c66814",
     "nombre":"Jiménez-González",
     "nit":"5265016731",
     "sector":"Agroindustria",
@@ -1672,7 +1672,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"7be23dba-f8df-442a-acc1-3990f3d931b1",
+    "id":"41ac40a8-ed53-4f73-8f66-98cdedd92f33",
     "nombre":"Loaiza-Blanco",
     "nit":"1340266502",
     "sector":"Tecnología",
@@ -1683,7 +1683,7 @@
     "correo_valido":"True"
   },
   {
-    "id":"dfabb85c-e9f0-480a-9386-da3269d4202a",
+    "id":"4cbe866d-ffa6-4350-92c4-e041e6492925",
     "nombre":"González Group",
     "nit":"0432609310",
     "sector":"Educación",
